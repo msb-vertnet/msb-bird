@@ -1,0 +1,181 @@
+Report for Institution Code MSB, Resource msb_bird
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 3768
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 115
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 6
+	Date: 2014-05-02 ; Times: 3
+	Date: 2014-05-05 ; Times: 1
+	Date: 2014-05-06 ; Times: 20
+	Date: 2014-05-07 ; Times: 18
+	Date: 2014-05-08 ; Times: 16
+	Date: 2014-05-09 ; Times: 17
+	Date: 2014-05-10 ; Times: 1
+	Date: 2014-05-13 ; Times: 5
+	Date: 2014-05-14 ; Times: 3
+	Date: 2014-05-15 ; Times: 10
+	Date: 2014-05-17 ; Times: 7
+	Date: 2014-05-18 ; Times: 2
+	Date: 2014-05-19 ; Times: 4
+	Date: 2014-05-20 ; Times: 8
+	Date: 2014-05-21 ; Times: 3
+	Date: 2014-05-22 ; Times: 4
+	Date: 2014-05-23 ; Times: 3
+	Date: 2014-05-24 ; Times: 1
+	Date: 2014-05-27 ; Times: 5
+	Date: 2014-05-28 ; Times: 1
+	Date: 2014-05-29 ; Times: 1
+	Date: 2014-05-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: ""lagopus leucurus" stateprovince:"New Mexico"" ; Times: 1
+	Query: "stomach contents class:Aves" ; Times: 2
+	Query: "Catharus minimus tissue:1" ; Times: 1
+	Query: "people" ; Times: 1
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: "media:1" ; Times: 3
+	Query: "koepckeae" ; Times: 1
+	Query: "Thryomanes bewickii California type:specimen (tissue) tissue:1" ; Times: 1
+	Query: "bucconidae tissue:1" ; Times: 1
+	Query: "university of kansas" ; Times: 1
+	Query: ""stomach content" class:Aves" ; Times: 8
+	Query: "glaucidium" ; Times: 1
+	Query: "oso" ; Times: 1
+	Query: "empidonax flaviventris tissue:1" ; Times: 2
+	Query: ""Toxostoma crissale"" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "casuarius year >= 1988" ; Times: 1
+	Query: "S. floridanus" ; Times: 1
+	Query: "oporornis" ; Times: 1
+	Query: "falco peregrinus" ; Times: 2
+	Query: "coeligena coeligena mappable:1 tissue:1" ; Times: 1
+	Query: "4128" ; Times: 2
+	Query: "zoo" ; Times: 1
+	Query: ""stomach content (95 ethanol)"" ; Times: 2
+	Query: ""stomach content" class:Aves (ethanol)" ; Times: 2
+	Query: ""Athene cunicularia"" ; Times: 1
+	Query: "stomach content" ; Times: 1
+	Query: "Aphelocoma New Mexico type:specimen (tissue) year >= 1980 tissue:1" ; Times: 1
+	Query: "casuarius" ; Times: 2
+	Query: "stateprovince:"new hampshire" genus:poecile" ; Times: 1
+	Query: "Sterna" ; Times: 1
+	Query: ""stomach content (95% ethanol)"" ; Times: 3
+	Query: "frog" ; Times: 1
+	Query: "msb 6668" ; Times: 3
+	Query: "stateprovince:"California" specificepithet:redivivum genus:toxostoma" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "2757" ; Times: 1
+	Query: "Vireo huttoni (tissue)" ; Times: 4
+	Query: ""Sphyrapicus thyroideus" (skin) mappable:1" ; Times: 4
+	Query: "Mulcahy" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: ""Sphyrapicus thyroideus" (skin) tissue:1" ; Times: 1
+	Query: "ALBIGULARIS type:specimen" ; Times: 1
+	Query: "genus:Merops" ; Times: 1
+	Query: "bucconidae" ; Times: 1
+	Query: "ALBIGULARIS" ; Times: 1
+	Query: "msb 4584" ; Times: 1
+	Query: "2748" ; Times: 1
+	Query: "specificepithet:bubo genus:Bubo tissue:1" ; Times: 1
+	Query: "trogonidae tissue:1" ; Times: 1
+	Query: ""Sphyrapicus thyroideus" tissue:1" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "falco peregrinus peregrinus" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: ""Toxostoma lecontei"" ; Times: 1
+	Query: "egretta" ; Times: 1
+	Query: ""stomach content" OR "stomach contents" class:Aves (ethanol)" ; Times: 8
+	Query: ""stomach contents saved" class:Aves" ; Times: 10
+	Query: "coccyzus year >= 1909 year" ; Times: 3
+	Query: "Vireo huttoni New Mexico type:specimen (tissue) year >= 1980 tissue:1" ; Times: 1
+	Query: "egretta rufescens" ; Times: 3
+	Query: "tockus deckeni" ; Times: 2
+	Query: "Bubo bubo specificepithet:bubo genus:Bubo tissue:1" ; Times: 1
+	Query: ""Campylorhynchus brunneicapillus"" ; Times: 1
+	Query: ""stomach contents" class:Aves (ethanol)" ; Times: 2
+	Query: "Streptopelia" ; Times: 1
+	Query: "msb 6667" ; Times: 2
+	Query: "Vireo huttoni California type:specimen (tissue) year >= 1980 tissue:1" ; Times: 3
+	Query: "genus:casuarius" ; Times: 1
+	Query: "Thryomanes bewickii California type:specimen (tissue) year >= 1980 tissue:1" ; Times: 3
+	Query: "specificepithet:occidentalis genus:Aechmophorus" ; Times: 1
+	Query: "otus" ; Times: 1
+	Query: "warbler" ; Times: 1
+	Query: ""Sphyrapicus thyroideus" (skin) mappable:1 tissue:1" ; Times: 1
+	Query: ""stomach contents" class:Aves" ; Times: 8
+	Query: "msb 4584 mus" ; Times: 1
+	Query: "Cynanthus" ; Times: 1
+	Query: "Turnix tissue:1" ; Times: 1
+	Query: "galbulidae tissue:1" ; Times: 1
+	Query: "MSB 66433" ; Times: 1
+	Query: "county:"White Pine" stateprovince:"Nevada"" ; Times: 2
+	Query: "specificepithet:lugubris genus:Brachygalba" ; Times: 1
+	Query: ""Streptopelia decaocto" (tissue OR preserved)" ; Times: 1
+	Query: "coeligena coeligena" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1679 download events in this period)
+Total number of records downloaded: 322 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 318
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 5
+	Date: 2014-05-06 ; Times: 2
+	Date: 2014-05-16 ; Times: 2
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Campylorhynchus brunneicapillus"" ; Times: 1
+	Query: "bucconidae tissue:1" ; Times: 1
+	Query: ""Toxostoma crissale"" ; Times: 1
+	Query: "egretta rufescens" ; Times: 1
+	Query: "Zacatecas" ; Times: 1
+	Query: ""Athene cunicularia"" ; Times: 1
+	Query: "Mulcahy" ; Times: 2
+	Query: ""Toxostoma lecontei"" ; Times: 1
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: "jessica castillo" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 261
+Total number of records retrieved from searches: 5360
+Number of download events that retrieved data from the resource: 81
+Total number of records downloaded: 12038
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 261
+Total number of records retrieved from searches: 5360
+Number of download events that retrieved data from the resource: 140
+Total number of records downloaded: 62964
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
