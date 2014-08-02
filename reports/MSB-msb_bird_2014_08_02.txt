@@ -1,0 +1,219 @@
+Report for Institution Code MSB, Resource msb_bird
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 2306
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 9
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Panama ; Times: 5
+	Country: Spain ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 117
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-02 ; Times: 6
+	Date: 2014-07-04 ; Times: 1
+	Date: 2014-07-05 ; Times: 9
+	Date: 2014-07-06 ; Times: 3
+	Date: 2014-07-07 ; Times: 12
+	Date: 2014-07-08 ; Times: 7
+	Date: 2014-07-09 ; Times: 4
+	Date: 2014-07-10 ; Times: 1
+	Date: 2014-07-11 ; Times: 36
+	Date: 2014-07-12 ; Times: 1
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-14 ; Times: 6
+	Date: 2014-07-15 ; Times: 4
+	Date: 2014-07-16 ; Times: 5
+	Date: 2014-07-17 ; Times: 2
+	Date: 2014-07-18 ; Times: 4
+	Date: 2014-07-19 ; Times: 1
+	Date: 2014-07-20 ; Times: 5
+	Date: 2014-07-22 ; Times: 2
+	Date: 2014-07-23 ; Times: 14
+	Date: 2014-07-24 ; Times: 4
+	Date: 2014-07-25 ; Times: 2
+	Date: 2014-07-26 ; Times: 7
+	Date: 2014-07-28 ; Times: 14
+	Date: 2014-07-29 ; Times: 8
+	Date: 2014-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "museum of texas tech" ; Times: 1
+	Query: ""quiscalus mexicanus" type:specimen (skeleton skull) AND (NOT eggs)" ; Times: 1
+	Query: "bell museum aves" ; Times: 2
+	Query: "genus:Patagioenas" ; Times: 4
+	Query: "southwestern" ; Times: 1
+	Query: "Manatee" ; Times: 1
+	Query: "corvus corax" ; Times: 1
+	Query: "specificepithet:corax genus:corvus institutioncode:msb year >= 1920 year <= 2014" ; Times: 1
+	Query: "Corvus brachyrhynchos hargravei" ; Times: 1
+	Query: "class:Aves media:1" ; Times: 1
+	Query: "ibis ibis class:aves" ; Times: 1
+	Query: "micrura" ; Times: 1
+	Query: "orange ridge" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT fossil) year >= 1940 year <= 2014" ; Times: 1
+	Query: "sporophila" ; Times: 1
+	Query: "otus otus" ; Times: 1
+	Query: "perisoreus institutioncode:msb" ; Times: 3
+	Query: "stateprovince:"arizona" specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+	Query: ""butorides"" ; Times: 1
+	Query: "Coracias" ; Times: 1
+	Query: "specificepithet:cryptoleucus genus:corvus year >= 1990 year <= 2014 tissue:1" ; Times: 1
+	Query: "institutioncode:msb" ; Times: 1
+	Query: "perisoreus" ; Times: 3
+	Query: "county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "picoides borealis" ; Times: 4
+	Query: "crow" ; Times: 2
+	Query: "103261 specificepithet:corax genus:corvus year >= 1980 year <= 2014" ; Times: 4
+	Query: "type:specimen county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "accipiter gentilis atricapillus" ; Times: 1
+	Query: "lophotriccus (tissue)" ; Times: 1
+	Query: "ptychoramphus aleuticus" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:corax genus:corvus institutioncode:msb AND (NOT yavapai NOT gila NOT whiteriver) year >= 1960 year <= 2014" ; Times: 1
+	Query: "Fulica" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:oberholseri genus:Empidonax" ; Times: 2
+	Query: "dryocopus pileatus tissue:1" ; Times: 1
+	Query: "Lepidothrix coronata" ; Times: 1
+	Query: "lophotriccus (tissue) tissue:1" ; Times: 1
+	Query: "alcyon tissue:1" ; Times: 1
+	Query: "stateprovince:"idaho" specificepithet:corax genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: ""picoides borealis" year >= 1700 year <= 1969" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014 distance(location,geopoint(45.460130637921004,-99.84375))<466374" ; Times: 1
+	Query: "specificepithet:lagopus genus:Buteo" ; Times: 2
+	Query: "country:"Mexico" specificepithet:corax genus:corvus institutioncode:msb" ; Times: 1
+	Query: "alectoris mappable:1" ; Times: 2
+	Query: "aegolius h*" ; Times: 1
+	Query: "specificepithet:varia genus:strix tissue:1" ; Times: 4
+	Query: "35377 specificepithet:corax genus:corvus year >= 1980 year <= 2014" ; Times: 1
+	Query: "perisoreus msb" ; Times: 7
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014 distance(location,geopoint(38.75408327579141,-95.7568359375))<576363" ; Times: 1
+	Query: "Aves Iowa type:specimen" ; Times: 1
+	Query: "specificepithet:cryptoleucus genus:corvus year >= 1990 year <= 2014" ; Times: 1
+	Query: "duck" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:corax genus:corvus institutioncode:msb AND (NOT yavapai) year >= 1960 year <= 2014" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:corax genus:corvus institutioncode:msb year >= 1960 year <= 2014" ; Times: 1
+	Query: "23867 specificepithet:corax genus:corvus year >= 1980 year <= 2014" ; Times: 1
+	Query: "Leucosticte littoralis" ; Times: 2
+	Query: "Icterus bullockii" ; Times: 2
+	Query: "leptotila rufaxilla" ; Times: 5
+	Query: "stateprovince:"arizona" specificepithet:corax genus:corvus institutioncode:msb year >= 1970 year <= 2014" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:corax genus:corvus institutioncode:msb AND (yavapai) year >= 1960 year <= 2014" ; Times: 1
+	Query: "saxatalis" ; Times: 2
+	Query: "specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: "specificepithet:corax genus:corvus (23867) year >= 1990 year <= 2014" ; Times: 1
+	Query: "genus:trogon year >= 2000" ; Times: 1
+	Query: "Tallahassee" ; Times: 1
+	Query: "stateprovince:"idaho" specificepithet:corax genus:corvus institutioncode:msb year >= 1920 year <= 2014" ; Times: 1
+	Query: ""Quiscalus mexicanus" (skull)" ; Times: 6
+	Query: "me" ; Times: 2
+	Query: "10461 specificepithet:corax genus:corvus year >= 1980 year <= 2014" ; Times: 2
+	Query: "Corvus imparatus" ; Times: 3
+	Query: "Pipilo maculatus tissue:1" ; Times: 1
+	Query: "Gymnopithys salvini" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Corvus sinaloae" ; Times: 2
+	Query: "selasphorus rufus" ; Times: 1
+	Query: ""picoides borealis"" ; Times: 2
+	Query: "specificepithet:corax genus:corvus year >= 1990 year <= 2014" ; Times: 2
+	Query: "quiscalus mexicanus" ; Times: 2
+	Query: "genus:puffinus" ; Times: 1
+	Query: "23867 specificepithet:corax genus:corvus institutioncode:msb" ; Times: 1
+	Query: "mockingbird" ; Times: 1
+	Query: "aegolius" ; Times: 3
+	Query: "Quiscalus mexicanus skull" ; Times: 2
+	Query: "dryocopus pileatus" ; Times: 2
+	Query: "specificepithet:corax genus:corvus institutioncode:msb AND (not new mexico) year >= 1920 year <= 2014" ; Times: 1
+	Query: "Patagioenas fasciata" ; Times: 3
+	Query: "specificepithet:corax genus:corvus" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:corax genus:corvus institutioncode:msb AND (NOT yavapai NOT gila) year >= 1960 year <= 2014" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1980 year <= 2014" ; Times: 1
+	Query: "country:"canada" specificepithet:corax genus:corvus institutioncode:msb" ; Times: 1
+	Query: "NEON" ; Times: 1
+	Query: "calidris ferruginea" ; Times: 2
+	Query: "Ammodramus savannarum" ; Times: 2
+	Query: "asthenes" ; Times: 2
+	Query: "W. M. Good" ; Times: 2
+	Query: "southwestern college" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 1
+	Query: "calidris type:specimen tissue:1" ; Times: 1
+	Query: "butorides" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:cryptoleucus genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:auricularis genus:puffinus" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:corax genus:corvus institutioncode:msb" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 437 download events in this period)
+Total number of records downloaded: 2164 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2140
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 8
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-06 ; Times: 1
+	Date: 2014-07-07 ; Times: 2
+	Date: 2014-07-10 ; Times: 1
+	Date: 2014-07-14 ; Times: 1
+	Date: 2014-07-15 ; Times: 8
+	Date: 2014-07-17 ; Times: 1
+	Date: 2014-07-24 ; Times: 1
+	Date: 2014-07-29 ; Times: 4
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Tympanuchus cupido cupido specificepithet:cupido cupido genus:Tympanuchus" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:oberholseri genus:Empidonax" ; Times: 1
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" class:aves year >= 2000 year <= 2014" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "Gymnopithys salvini" ; Times: 1
+	Query: "rhodinocichla" ; Times: 1
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "picoides borealis" ; Times: 2
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "Lepidothrix coronata" ; Times: 1
+	Query: "Aphelocoma type:specimen" ; Times: 1
+	Query: "Tallahassee" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 520
+Total number of records retrieved from searches: 8615
+Number of download events that retrieved data from the resource: 118
+Total number of records downloaded: 14602
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 520
+Total number of records retrieved from searches: 8615
+Number of download events that retrieved data from the resource: 177
+Total number of records downloaded: 65528
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
