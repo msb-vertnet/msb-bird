@@ -1,0 +1,238 @@
+Report for Institution Code MSB, Resource msb_bird
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 124
+Number of records retrieved in searches: 923
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: France ; Times: 3
+	Country: Germany ; Times: 4
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 93
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 2
+	Date: 2015-03-03 ; Times: 4
+	Date: 2015-03-04 ; Times: 5
+	Date: 2015-03-05 ; Times: 13
+	Date: 2015-03-06 ; Times: 9
+	Date: 2015-03-07 ; Times: 6
+	Date: 2015-03-08 ; Times: 5
+	Date: 2015-03-09 ; Times: 3
+	Date: 2015-03-10 ; Times: 4
+	Date: 2015-03-11 ; Times: 5
+	Date: 2015-03-12 ; Times: 5
+	Date: 2015-03-13 ; Times: 4
+	Date: 2015-03-15 ; Times: 4
+	Date: 2015-03-16 ; Times: 6
+	Date: 2015-03-17 ; Times: 7
+	Date: 2015-03-18 ; Times: 7
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-20 ; Times: 5
+	Date: 2015-03-21 ; Times: 1
+	Date: 2015-03-22 ; Times: 3
+	Date: 2015-03-23 ; Times: 4
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 2
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-28 ; Times: 2
+	Date: 2015-03-29 ; Times: 2
+	Date: 2015-03-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Lanius excubitor tissue:1" ; Times: 1
+	Query: "colinus ridgwayi year >= 1950 year <= 2015" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "vidua macroura specificepithet:macroura genus:vidua tissue:1" ; Times: 1
+	Query: "chamaeza" ; Times: 1
+	Query: "athene cunicularia tissue" ; Times: 1
+	Query: "chiroxiphia pareola country:"peru" tissue:1" ; Times: 1
+	Query: "cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "Callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua (Tissue) tissue:1" ; Times: 1
+	Query: "Bubo virginanus" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "plectrophenax nivalis" ; Times: 2
+	Query: "clangula" ; Times: 1
+	Query: "camptostoma obsoletum tissue:1" ; Times: 1
+	Query: "rallus longirostris" ; Times: 2
+	Query: "Amazonas mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"Utah" (Bear River)" ; Times: 1
+	Query: "gavia immer" ; Times: 1
+	Query: "sager" ; Times: 1
+	Query: "schistochlamys melanopis tissue" ; Times: 1
+	Query: "Agapornis weight" ; Times: 3
+	Query: "Scaphidura" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "motacilla tissue:1" ; Times: 1
+	Query: "florence arizona" ; Times: 2
+	Query: "Crotalus willardi Hidalgo county" ; Times: 1
+	Query: "stateprovince:"Amazonas" year <= 2015 mappable:1" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "Phylloscopus trochilus" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Falco mexicanus" ; Times: 1
+	Query: "Vireo cassinii" ; Times: 1
+	Query: "Toxostoma longirostre tissue:1" ; Times: 1
+	Query: "Cyrtonyx montezumae mexico" ; Times: 1
+	Query: "cyanocompsa cyanoides" ; Times: 1
+	Query: "Perisoreus tissue:1" ; Times: 3
+	Query: "Rhegmatorhina melanosticta" ; Times: 1
+	Query: "amador" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "bulla" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "pauxi" ; Times: 1
+	Query: "lepidothrix coronata" ; Times: 2
+	Query: "elephant skull adult type:specimen" ; Times: 1
+	Query: "oxyura jamaicensis" ; Times: 1
+	Query: "pyriglena leuconota" ; Times: 1
+	Query: "specificepithet:guajana genus:Pitta" ; Times: 3
+	Query: "athene cunicularia tissue:1" ; Times: 2
+	Query: "muscicapa striata" ; Times: 1
+	Query: "socorro new mexico" ; Times: 1
+	Query: "Amazonas stateprovince:"Amazonas" year <= 2015 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "cyrtonyx year >= 1980 year <= 2015" ; Times: 1
+	Query: "chiroxiphia boliviana" ; Times: 1
+	Query: "aquila United States (United States) tissue:1" ; Times: 1
+	Query: "coleoptera" ; Times: 1
+	Query: "Knipolegus tissue:1" ; Times: 1
+	Query: "specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: "Lanius excubitor (tissue)" ; Times: 1
+	Query: "Hidalgo County AND squamata distance(location,geopoint(31.930409004471134,-108.9349365234375))<23772.698294372032" ; Times: 1
+	Query: "strigilatus" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(43.91119007003743,-72.2900390625))<17706.79171425276" ; Times: 1
+	Query: "Terpsiphone tissue:1" ; Times: 6
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "diademata AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "cyanocitta cristata tissue:1" ; Times: 1
+	Query: "specificepithet:migratorius genus:turdus year >= 1996 year <= 2015" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "tricholaema" ; Times: 1
+	Query: "thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 3
+	Query: "veniliornis" ; Times: 1
+	Query: "Glaucidium peruanum" ; Times: 1
+	Query: "anthus spinoletta" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "aquila tissue:1" ; Times: 1
+	Query: "myiopsitta" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "North America Pyrocephalus rubinus" ; Times: 1
+	Query: "cyrtonyx montezumae" ; Times: 1
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 2
+	Query: "genus:chamaeza tissue:1" ; Times: 1
+	Query: "lepidothrix iris tissue:1" ; Times: 1
+	Query: "hilaria mutica" ; Times: 1
+	Query: "Hylophylax naevius" ; Times: 1
+	Query: "lamprotornis nitens" ; Times: 2
+	Query: "hummingbird" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "county:"Montgomery" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Thlypopsis ornata" ; Times: 2
+	Query: "perisoreus tissue:1" ; Times: 2
+	Query: "Africa Aves year >= 2010 year <= 2015 tissue:1" ; Times: 1
+	Query: "lepidothrix coronata country:"peru" tissue:1" ; Times: 1
+	Query: "conopophaga" ; Times: 1
+	Query: "specificepithet:caeruleus genus:cyanocorax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 298 download events in this period)
+Total number of records downloaded: 876 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 804
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 8
+	Country: Canada ; Times: 3
+	Country: Cyprus ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 11
+	Country: Venezuela ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 5
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-16 ; Times: 2
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-22 ; Times: 3
+	Date: 2015-03-24 ; Times: 3
+	Date: 2015-03-26 ; Times: 5
+	Date: 2015-03-27 ; Times: 3
+	Date: 2015-03-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Scaphidura" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "HYLOPHILUS FLAVIPES" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(41.36526606011106,-75.65460205078125))<17395" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1340
+Total number of records retrieved from searches: 17531
+Number of download events that retrieved data from the resource: 99
+Total number of records downloaded: 7613
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1567
+Total number of records retrieved from searches: 19350
+Number of download events that retrieved data from the resource: 382
+Total number of records downloaded: 84303
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
