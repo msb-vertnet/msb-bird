@@ -1,0 +1,286 @@
+Report for Institution Code MSB, Resource msb_bird
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 2335
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 61
+	Country: Brazil ; Times: 11
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 5
+	Country: Puerto Rico ; Times: 3
+	Country: United States ; Times: 83
+	Country: Germany ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 9
+	Country: Switzerland ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Russia ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-06 ; Times: 12
+	Date: 2015-12-09 ; Times: 9
+	Date: 2015-12-08 ; Times: 15
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-02 ; Times: 15
+	Date: 2015-12-01 ; Times: 17
+	Date: 2015-12-07 ; Times: 18
+	Date: 2015-12-16 ; Times: 3
+	Date: 2015-12-05 ; Times: 7
+	Date: 2015-12-04 ; Times: 12
+	Date: 2015-12-21 ; Times: 4
+	Date: 2015-12-20 ; Times: 4
+	Date: 2015-12-23 ; Times: 17
+	Date: 2015-12-22 ; Times: 3
+	Date: 2015-12-27 ; Times: 5
+	Date: 2015-12-29 ; Times: 3
+	Date: 2015-12-28 ; Times: 3
+	Date: 2015-12-31 ; Times: 7
+	Date: 2015-12-14 ; Times: 9
+	Date: 2015-12-15 ; Times: 5
+	Date: 2015-12-30 ; Times: 2
+	Date: 2015-12-17 ; Times: 6
+	Date: 2015-12-10 ; Times: 9
+	Date: 2015-12-11 ; Times: 6
+	Date: 2015-12-12 ; Times: 5
+	Date: 2015-12-18 ; Times: 3
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Nebraska&#34; institutioncode:MSB" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "type:specimen genus:Agapornis order:Psittaciformes (personatus)" ; Times: 1
+	Query: "Elephant" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Nebraska&#34; institutioncode:MSB" ; Times: 2
+	Query: "type:specimen specificepithet:picumnus genus:Dendrocolaptes" ; Times: 1
+	Query: "perdix egg" ; Times: 1
+	Query: "genus:leucosticte tissue:1" ; Times: 1
+	Query: "Contopus virens" ; Times: 1
+	Query: "Larimer Anas" ; Times: 1
+	Query: "Terpsiphone (Terpsiphone ) AND (Terpsiphone ) tissue:1" ; Times: 1
+	Query: "Leptopogon taczanowskii type:specimen" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Jackson 1889" ; Times: 1
+	Query: "lagopus leucurus" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Parotia lawesii type:specimen preparations:skin AND (NOT CLO)" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "cardellina pusilla" ; Times: 1
+	Query: "SPHENISCUS HUMBOLDTI" ; Times: 1
+	Query: "mus massachusetts" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Pycnonotus tricolor tissue:1" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 2
+	Query: "poecile gambeli kansas" ; Times: 1
+	Query: "Calliphlox type:specimen mappable:1" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Melanerpes erythrocephalus" ; Times: 1
+	Query: "Phalaropus lobatus" ; Times: 2
+	Query: "mergus serrator mexico" ; Times: 1
+	Query: "specificepithet:inquisitor genus:Tityra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sphyrapicus varius year &gt;= 1999 year &lt;= 2000" ; Times: 1
+	Query: "grallaria rufula" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 2
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 2
+	Query: "James L. Patton" ; Times: 1
+	Query: "Leptopogon superciliaris type:specimen" ; Times: 1
+	Query: "pulsatrix tissue:1" ; Times: 3
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "francolinus francolinus" ; Times: 1
+	Query: "specificepithet:bicalcaratum family:Phasianidae preparations:skin" ; Times: 1
+	Query: "riparia riparia" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Pheucticus melanocephalus year &gt;= 1982 year &lt;= 1982" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Thamnophilus ruficapillus type:specimen" ; Times: 1
+	Query: "cyanocompsa cyanoides" ; Times: 1
+	Query: "Cyclarhis gujanensis" ; Times: 3
+	Query: "genus:Tityra class:Aves stateprovince:&#34;goias&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Margarornis squamiger type:specimen" ; Times: 1
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "Donna C. Schmitt" ; Times: 2
+	Query: "grallaria rufula type:specimen" ; Times: 2
+	Query: "grey wolf" ; Times: 1
+	Query: "empidonax difficilis (mexico)" ; Times: 1
+	Query: "12522" ; Times: 2
+	Query: "crotalus willardi" ; Times: 3
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "genus:dendrocygna stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Selasphorus platycercus type:specimen tissue:1" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Murie fox (Murie) year &gt;= 1920 year &lt;= 1990" ; Times: 1
+	Query: "sandoval county mappable:1 tissue:1" ; Times: 1
+	Query: "Sterna forsteri" ; Times: 1
+	Query: "mounted type:specimen year &lt;= 1930" ; Times: 2
+	Query: "lung" ; Times: 1
+	Query: "Rhynchopsitta &#34;New Mexico&#34;" ; Times: 1
+	Query: "phaethornis" ; Times: 1
+	Query: "devil" ; Times: 10
+	Query: "genus:callipepla stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "Grus canadensis specimens from New Mexico" ; Times: 1
+	Query: "Chordeiles minor" ; Times: 1
+	Query: "Arremon brunneinucha type:specimen" ; Times: 1
+	Query: "Myioborus melanocephalus type:specimen" ; Times: 1
+	Query: "YPM" ; Times: 1
+	Query: "Cardellina canadensis" ; Times: 4
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "Pteroglossus beauharnaesii preparations:skin" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 3
+	Query: "nothoprocta ornata" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "larimer aves" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "Psittacidae Arizona" ; Times: 2
+	Query: "Bostrychia olivacea preparations:skin" ; Times: 2
+	Query: "distance(location,geopoint(32.32118167963493,-114.78515625))&lt;30358" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Ammodramus caudacutus" ; Times: 3
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "piculus leucolaemus" ; Times: 3
+	Query: "Sturnella magna" ; Times: 2
+	Query: "Chlorospingus" ; Times: 1
+	Query: "canadensis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "Stellula calliope type:specimen tissue:1" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "moth" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 5
+	Query: "Dendrocolaptidae" ; Times: 2
+	Query: "Calothorax type:specimen mappable:1" ; Times: 1
+	Query: "turnix tissue:1" ; Times: 1
+	Query: "Antrostomus vociferus" ; Times: 1
+	Query: "Icteria virens" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Caprimulgus vociferus" ; Times: 1
+	Query: "grallaricula flavirostris type:specimen" ; Times: 1
+	Query: "Diphyllodes respublica" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 4
+	Query: "Olaus Murie (Murie) year &gt;= 1920 year &lt;= 1990" ; Times: 1
+	Query: "grallaria przewalskii type:specimen" ; Times: 1
+	Query: "francolinus pondicerianus" ; Times: 1
+	Query: "leucosticte australis" ; Times: 2
+	Query: "Pachyramphus albogriseus albogriseus" ; Times: 2
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "Donna C. Cole" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "Pyrrhomyias cinnamomeus type:specimen" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "Andigena hypoglauca" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 3
+	Query: "Cyclarhis gujanensis LSU" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "bRAZIL genus:Tityra class:Aves stateprovince:&#34;goias&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Andigena class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Pipreola riefferii type:specimen" ; Times: 1
+	Query: "aegolius acadicus mexico" ; Times: 1
+	Query: "Parotia lawesii preparations:skin" ; Times: 1
+	Query: "pHRYGILUS UNICOLOR" ; Times: 1
+	Query: "Jackson 1889-09-19" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 889 download events in this period)
+Total number of records downloaded: 2655
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 10
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 6
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-23 ; Times: 9
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 5
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-22 ; Times: 2
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 2
+	Date: 2015-12-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Stellula calliope type:specimen tissue:1" ; Times: 1
+	Query: "Empidonax occidentalis tissue:1" ; Times: 1
+	Query: "chloropipo unicolor" ; Times: 2
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "Selasphorus sasin type:specimen tissue:1" ; Times: 1
+	Query: "lophotriccus pileatus type:specimen" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "Henicorhina leucophrys type:specimen" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Pueblo Colorado Aves" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "Calcarius mccownii" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 1
+	Query: "grallaricula flavirostris type:specimen" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "Grus canadensis specimens from New Mexico" ; Times: 1
+	Query: "Arremon brunneinucha type:specimen" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "Calothorax type:specimen mappable:1" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (california) year &lt;= 1979 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "Selasphorus type:specimen mappable:1" ; Times: 2
+	Query: "Donna C. Cole" ; Times: 1
+	Query: "Pyrrhomyias cinnamomeus type:specimen" ; Times: 1
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34; sex:male" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 1
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(32.32118167963493,-114.78515625))&lt;30358" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Leptopogon superciliaris type:specimen" ; Times: 1
+	Query: "terpsiphone year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+
+
+End of report.
