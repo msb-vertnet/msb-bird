@@ -1,0 +1,272 @@
+Report for Institution Code MSB, Resource msb_bird
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 205
+Number of records retrieved in searches: 1872
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 16
+	Country: Brazil ; Times: 4
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 141
+	Country: Sweden ; Times: 8
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 6
+	Date: 2016-02-22 ; Times: 5
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-12 ; Times: 7
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-11 ; Times: 15
+	Date: 2016-02-16 ; Times: 11
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 5
+	Date: 2016-02-15 ; Times: 2
+	Date: 2016-02-29 ; Times: 8
+	Date: 2016-02-09 ; Times: 10
+	Date: 2016-02-08 ; Times: 4
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 4
+	Date: 2016-02-27 ; Times: 3
+	Date: 2016-02-26 ; Times: 16
+	Date: 2016-02-25 ; Times: 5
+	Date: 2016-02-24 ; Times: 11
+	Date: 2016-02-01 ; Times: 9
+	Date: 2016-02-03 ; Times: 7
+	Date: 2016-02-02 ; Times: 17
+	Date: 2016-02-05 ; Times: 12
+	Date: 2016-02-04 ; Times: 21
+	Date: 2016-02-07 ; Times: 7
+	Date: 2016-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "hammondi" ; Times: 1
+	Query: "class:Aves stateprovince:Nevada" ; Times: 1
+	Query: "plocepasser tissue:1" ; Times: 2
+	Query: "&#34;W. E. D. Scott&#34; recordedby:Scott" ; Times: 1
+	Query: "specificepithet:alticola genus:Poospiza tissue:1" ; Times: 1
+	Query: "specificepithet:sparverius stateprovince:&#34;alaska&#34; year &gt;= 1959 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:obscurus genus:Tiaris tissue:1" ; Times: 1
+	Query: "hilaria" ; Times: 1
+	Query: "accipiter gentilis" ; Times: 1
+	Query: "Synallaxis" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "Sporopipes tissue:1" ; Times: 1
+	Query: "catharus fuscescens tissue:1" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus mappable:1 tissue:1" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "phylloscopus" ; Times: 1
+	Query: "tympanuchus cupido cupido" ; Times: 2
+	Query: "Pionus menstruus" ; Times: 2
+	Query: "wasp" ; Times: 1
+	Query: "virginiana mappable:1 tissue:1" ; Times: 1
+	Query: "26720 (Sphyrapicus nuchalis) institutioncode:MSB" ; Times: 2
+	Query: "3991" ; Times: 1
+	Query: "atlapetes melanopsis" ; Times: 2
+	Query: "specificepithet:asio genus:otus" ; Times: 8
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "specificepithet:alexandrinus genus:Charadrius county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "fur" ; Times: 1
+	Query: "lepidocolaptes souleyetii mappable:1" ; Times: 1
+	Query: "american robin" ; Times: 1
+	Query: "Aves North Reef" ; Times: 2
+	Query: "diet" ; Times: 1
+	Query: "Michigan university" ; Times: 1
+	Query: "poliocephalus tissue:1" ; Times: 1
+	Query: "yale" ; Times: 2
+	Query: "specificepithet:cardinalis genus:cardinalis year &gt;= 2010 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "sparrows" ; Times: 1
+	Query: "Vireo vicinior" ; Times: 2
+	Query: "specificepithet:caesar genus:Poospiza tissue:1" ; Times: 1
+	Query: "Thryothorus superciliaris tissue:1" ; Times: 1
+	Query: "161/2002" ; Times: 1
+	Query: "Chiroxiphia boliviana" ; Times: 1
+	Query: "cardinalis tissue:1" ; Times: 2
+	Query: "Columbina passerina" ; Times: 1
+	Query: "spider" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1924 year &lt;= 1925" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 1
+	Query: "veniliornis tissue:1" ; Times: 1
+	Query: "Vireo vicinior year &gt;= 1940 year &lt;= 2016" ; Times: 1
+	Query: "Vireo vicinior year &gt;= 1940 year &lt;= 2016 month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "mummy" ; Times: 8
+	Query: "Anas diazi" ; Times: 1
+	Query: "fort hays state university" ; Times: 1
+	Query: "colaptes auratus tissue:1" ; Times: 1
+	Query: "class:Aves recordedby:Jacot" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "vireo flavoviridis" ; Times: 1
+	Query: "catharus minimus" ; Times: 2
+	Query: "genus:Stercorarius tissue:1" ; Times: 1
+	Query: "campylorhamphus pusillus" ; Times: 1
+	Query: "Plocepasser tissue:1" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "crotalus willardi" ; Times: 13
+	Query: "momotus momota" ; Times: 1
+	Query: "Anas rubripes" ; Times: 1
+	Query: "lepidocolaptes souleyetii tissue:1" ; Times: 1
+	Query: "Cardinalis cardinalis year &gt;= 2010 year &lt;= 2015 mappable:1" ; Times: 2
+	Query: "30149" ; Times: 1
+	Query: "(weight OR mass AND &#34;Iridosornis reinhardti&#34;)" ; Times: 1
+	Query: "165386 (Sphyrapicus nuchalis) institutioncode:MSB" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Lophornis delattrei" ; Times: 1
+	Query: "Cardinalis year &gt;= 2010 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "selasphorus sasin" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "Thraupis episcopus type:specimen tissue:1" ; Times: 1
+	Query: "Lepidothrix isidorei" ; Times: 1
+	Query: "&#34;W E D Scott&#34; recordedby:Scott" ; Times: 1
+	Query: "Vireo vicinior mexico" ; Times: 1
+	Query: "Rallidae (Rallidae AND atra)" ; Times: 1
+	Query: "26647 (Sphyrapicus nuchalis) institutioncode:MSB" ; Times: 1
+	Query: "24164 (Sphyrapicus nuchalis) institutioncode:MSB" ; Times: 1
+	Query: "Brachyramphus perdix" ; Times: 1
+	Query: "pycnonotus jocosus india" ; Times: 2
+	Query: "cardinalis cardinalis tissue:1" ; Times: 1
+	Query: "brachyura" ; Times: 1
+	Query: "Pipreola intermedia" ; Times: 1
+	Query: "asio otus" ; Times: 2
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "Sittasomus griseicapillus tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "phylloscopus tissue:1" ; Times: 1
+	Query: "piculus leucolaemus" ; Times: 2
+	Query: "Psittacidae stomach" ; Times: 3
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "Diglossa sittoides" ; Times: 1
+	Query: "bostrychia olivacea" ; Times: 2
+	Query: "strix varia mexico" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 2
+	Query: "euplectes tissue:1" ; Times: 1
+	Query: "nothocercus julius" ; Times: 3
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "type:specimen class:Aves (Ascencion)" ; Times: 1
+	Query: "melanerpes aurifrons" ; Times: 1
+	Query: "bellii tissue:1" ; Times: 2
+	Query: "menstruus" ; Times: 1
+	Query: "wings of birds" ; Times: 1
+	Query: "apus barbatus" ; Times: 2
+	Query: "Phylloscopus type:specimen" ; Times: 2
+	Query: "specificepithet:asio genus:Otus" ; Times: 2
+	Query: "castor" ; Times: 1
+	Query: "Chaetura cinereiventris tissue:1" ; Times: 1
+	Query: "Coraciidae" ; Times: 1
+	Query: "Tympanuchus pallidicinctus 1" ; Times: 1
+	Query: "genus:Ploceus tissue:1" ; Times: 5
+	Query: "Tangara AND mexicana (weight OR mass)" ; Times: 1
+	Query: "onychorhynchus tissue:1" ; Times: 2
+	Query: "Pitta brachyura type:specimen" ; Times: 1
+	Query: "&#34;W. E. D. Scott&#34;" ; Times: 1
+	Query: "&#34;W E D Scott&#34;" ; Times: 1
+	Query: "hastypestatus:1 tissue:1" ; Times: 1
+	Query: "tropical birds" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1921 year &lt;= 1923" ; Times: 1
+	Query: "hilaria mutica" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1921 year &lt;= 1925" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "specificepithet:pictus genus:calcarius class:aves" ; Times: 1
+	Query: "campylorhamphus pusillus tissue:1" ; Times: 1
+	Query: "Calcarius mccownii tissue:1" ; Times: 1
+	Query: "Iridosornis jelskii" ; Times: 1
+	Query: "Snowornis subalaris" ; Times: 1
+	Query: "28620 (Sphyrapicus nuchalis) institutioncode:MSB" ; Times: 1
+	Query: "atlapetes canigenis" ; Times: 7
+	Query: "33755" ; Times: 1
+	Query: "Machaeropterus pyrocephalus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 512 download events in this period)
+Total number of records downloaded: 9119
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 25
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-19 ; Times: 3
+	Date: 2016-02-26 ; Times: 4
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-29 ; Times: 5
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1924 year &lt;= 1925" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1975 year &lt;= 1979" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Poicephalus meyeri" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1936 year &lt;= 1937" ; Times: 1
+	Query: "continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "tissue:1" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1920 year &lt;= 1926 mappable:1" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1940 year &lt;= 1946 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1946 year &lt;= 1949" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "capito" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "poliocephalus tissue:1" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis year &gt;= 2010 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
