@@ -1,0 +1,366 @@
+Report for Institution Code MSB, Resource msb_bird
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 336
+Number of records retrieved in searches: 2686
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 26
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 10
+	Country: India ; Times: 2
+	Country: Austria ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Spain ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: United States ; Times: 253
+	Country: Russia ; Times: 1
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 7
+	Date: 2016-08-11 ; Times: 9
+	Date: 2016-08-12 ; Times: 31
+	Date: 2016-08-13 ; Times: 3
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 9
+	Date: 2016-08-16 ; Times: 7
+	Date: 2016-08-17 ; Times: 7
+	Date: 2016-08-18 ; Times: 19
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-30 ; Times: 19
+	Date: 2016-08-31 ; Times: 28
+	Date: 2016-08-29 ; Times: 18
+	Date: 2016-08-28 ; Times: 10
+	Date: 2016-08-25 ; Times: 25
+	Date: 2016-08-24 ; Times: 27
+	Date: 2016-08-27 ; Times: 9
+	Date: 2016-08-26 ; Times: 50
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-23 ; Times: 30
+	Date: 2016-08-22 ; Times: 19
+	Date: 2016-08-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "class:aves locality:antelope tank county:&#34;catron&#34; stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "1146" ; Times: 1
+	Query: "Knipolegus aterrimus tissue:1" ; Times: 1
+	Query: "granatellus venustus" ; Times: 1
+	Query: "pigeon lake" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; month &gt;= 8 month &lt;= 10" ; Times: 1
+	Query: "type:specimen (pipridae)" ; Times: 2
+	Query: "Aphelocoma californica MSB" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Myrmotherula longipennis longipennis" ; Times: 1
+	Query: "Catharus fuscescens salicicola month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "weight type:specimen family:pipridae" ; Times: 1
+	Query: "Catharus fuscescens month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "90-171" ; Times: 2
+	Query: "Catharus fuscater tissue:1" ; Times: 2
+	Query: "MSB 17390" ; Times: 4
+	Query: "Catharus guttatus month &gt;= 7 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "fuscater azul" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1961 year &lt;= 1990" ; Times: 2
+	Query: "type:specimen genus:opisthocomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "PIcoides villosus year &gt;= 1980" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 2
+	Query: "specificepithet:peregrinus genus:falco county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "bostrychia tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:micrura genus:myrmia tissue:1" ; Times: 1
+	Query: "Catharus fuscater Azul" ; Times: 1
+	Query: "Electron platyrhynchum tissue:1" ; Times: 2
+	Query: "MSB 17379" ; Times: 2
+	Query: "MSB 17378" ; Times: 2
+	Query: "type:specimen genus:Brachygalba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pipridae" ; Times: 1
+	Query: "Black bear" ; Times: 13
+	Query: "Catharus guttatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "class:aves locality:walnut county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "type:specimen genus:guira class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Calandrella country:&#34;India&#34;" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:Colinus tissue:1" ; Times: 1
+	Query: "class:aves county:&#34;catron&#34; stateprovince:&#34;new mexico&#34; recordedby:hubbard year &gt;= 1976 year &lt;= 1976 month &gt;= 10 month &lt;= 10 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tryngites mexico" ; Times: 1
+	Query: "type:specimen specificepithet:amethystina genus:Calliphlox tissue:1" ; Times: 1
+	Query: "pitta brachyura" ; Times: 1
+	Query: "MSB 17381" ; Times: 2
+	Query: "Todus todus tissue:1" ; Times: 3
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1920 year &lt;= 1960" ; Times: 1
+	Query: "MSB 17388" ; Times: 4
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "Momotus aequatorialis tissue:1" ; Times: 1
+	Query: "Southwestern Flycatcher" ; Times: 1
+	Query: "Catharus ustulatus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Picoides dorsalis year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;texas&#34; sex:female" ; Times: 1
+	Query: "nightingale" ; Times: 1
+	Query: "8974" ; Times: 1
+	Query: "MSB 17895" ; Times: 2
+	Query: "MSB 17896" ; Times: 2
+	Query: "genus:struthio" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "type:specimen genus:calliphlox tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus AND (california)" ; Times: 1
+	Query: "type:specimen specificepithet:fanny genus:myrtis" ; Times: 1
+	Query: "dendroica magnolia month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "Turnix sylvaticus" ; Times: 1
+	Query: "phylloscopus borealis north america" ; Times: 1
+	Query: "class:aves county:&#34;hidalgo&#34; stateprovince:&#34;New mexico&#34; year &gt;= 1962 year &lt;= 1962" ; Times: 1
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus tissue:1" ; Times: 1
+	Query: "body width" ; Times: 2
+	Query: "type:specimen specificepithet:fanny genus:myrtis tissue:1" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Aphelocoma californica MSB 169695" ; Times: 1
+	Query: "catharus minimus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Xiphocolaptes" ; Times: 1
+	Query: "class:Aves continent:North america (Campephilus)" ; Times: 1
+	Query: "T R johnson" ; Times: 1
+	Query: "kane county utah" ; Times: 4
+	Query: "specificepithet:auricularis genus:puffinus family:Procellariidae year &gt;= 1964 year &lt;= 1978" ; Times: 1
+	Query: "Icterus graceannae tissue:1" ; Times: 1
+	Query: "aURIPARUS FLAVICEPS" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "type:specimen specificepithet:ani genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Icterus tissue:1" ; Times: 4
+	Query: "type:specimen specificepithet:MAJOR genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 2
+	Query: "body mass" ; Times: 1
+	Query: "Callipepla californica" ; Times: 2
+	Query: "type:specimen stateprovince:&#34;puerto rico&#34; mappable:1 tissue:1" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "Falco peregrinus Texas" ; Times: 1
+	Query: "Icterus cayanensis tissue:1" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1949" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 2
+	Query: "type:specimen genus:machaeropterus family:pipridae" ; Times: 1
+	Query: "Phylloscartes" ; Times: 1
+	Query: "&#34;stomach contents&#34; class:Aves (ethanol)" ; Times: 1
+	Query: "type:specimen specificepithet:chacuru genus:Nystalus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:surrucura genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:lugubris genus:Brachygalba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "concolor" ; Times: 1
+	Query: "type:specimen specificepithet:macroura genus:eupetomena class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Gymnorhinus stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Beetle" ; Times: 1
+	Query: "type:specimen specificepithet:vesper genus:rhodopis tissue:1" ; Times: 1
+	Query: "class:aves county:&#34;catron&#34; stateprovince:&#34;new mexico&#34; recordedby:Hubbard year &gt;= 1976 year &lt;= 1976 month &gt;= 10 month &lt;= 10 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tom r. johnson" ; Times: 1
+	Query: "Eremopterix signatus" ; Times: 1
+	Query: "genus:Tyrannus county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "caspia" ; Times: 1
+	Query: "class:aves locality:antelope county:&#34;catron&#34; stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Drymophila" ; Times: 1
+	Query: "athene cunicularia chihuahua" ; Times: 1
+	Query: "Selasphorus sasin tissue:1" ; Times: 1
+	Query: "myrmia micrura" ; Times: 25
+	Query: "type:specimen specificepithet:cora genus:thaumastura tissue:1" ; Times: 1
+	Query: "coeligena coeligena cuzco type:specimen" ; Times: 2
+	Query: "occidentalis lucida" ; Times: 1
+	Query: "Aves type:specimen mappable:1 media:1 tissue:1" ; Times: 1
+	Query: "megascops asio (otus AND asio) tissue:1" ; Times: 1
+	Query: "Catharus fuscater mappable:1" ; Times: 2
+	Query: "stictopterus" ; Times: 1
+	Query: "Catharus fuscater Peru" ; Times: 1
+	Query: "chickadee" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "calothorax" ; Times: 1
+	Query: "chiroxiphia boliviana" ; Times: 1
+	Query: "W. S. Wood" ; Times: 1
+	Query: "University of Michigan birds" ; Times: 1
+	Query: "bird shape" ; Times: 1
+	Query: "Dendroica aestiva" ; Times: 1
+	Query: "Corvus AND corax AND california" ; Times: 1
+	Query: "Todus mexicanus tissue:1" ; Times: 2
+	Query: "Coracias caudatus" ; Times: 1
+	Query: "Ptilonorhynchus AMNH" ; Times: 3
+	Query: "Merops bullockoides tissue:1" ; Times: 1
+	Query: "class:aves county:&#34;hidalgo&#34; stateprovince:&#34;new mexico&#34; recordedby:hubbard basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus AND (not California)" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; month &gt;= 7 month &lt;= 10" ; Times: 1
+	Query: "museum of southwestern biology new mexico" ; Times: 2
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "Icterus croconotus tissue:1" ; Times: 1
+	Query: "type:specimen genus:Opisthocomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Calothorax" ; Times: 1
+	Query: "corbidi" ; Times: 2
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Coracias garrulus" ; Times: 2
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "schistes geoffroyi cuzco type:specimen" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "genus:Cranioleuca institutioncode:MSB" ; Times: 1
+	Query: "parus major &amp; hasmass:1" ; Times: 1
+	Query: "tom johnson" ; Times: 1
+	Query: "10923" ; Times: 3
+	Query: "MSB 12078" ; Times: 2
+	Query: "cypseloides niger" ; Times: 2
+	Query: "megascops asio tissue:1" ; Times: 3
+	Query: "10929" ; Times: 1
+	Query: "&#34;ammodramus nelsoni&#34; type:specimen tissue:1" ; Times: 1
+	Query: "&#34;otus asio&#34; tissue:1" ; Times: 2
+	Query: "type:specimen genus:momotus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Farallon" ; Times: 1
+	Query: "Turnix sylvaticus sylvaticus" ; Times: 1
+	Query: "parus major" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "Catharus month &gt;= 7 month &lt;= 7 institutioncode:MSB tissue:1" ; Times: 1
+	Query: "ant" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "stateprovince:&#34;Nebraska&#34; institutioncode:MSB" ; Times: 2
+	Query: "Thamnistes" ; Times: 1
+	Query: "169695" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "Strix occidentalis lucida tissue:1" ; Times: 1
+	Query: "falco peregrinus" ; Times: 2
+	Query: "92074" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 2
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "schiffornis turdina" ; Times: 1
+	Query: "catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "specificepithet:ruficollis class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "cistothorus platensis tissue:1" ; Times: 1
+	Query: "otus asio tissue:1" ; Times: 2
+	Query: "Arizona elegans" ; Times: 1
+	Query: "90-128" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Catharus institutioncode:MSB tissue:1" ; Times: 1
+	Query: "catharus guttatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 3
+	Query: "Cypseloides" ; Times: 1
+	Query: "Catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 8
+	Query: "invertebrate" ; Times: 1
+	Query: "dryas (Mexico) tissue:1" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "ecological" ; Times: 1
+	Query: "Catharus dryas tissue:1" ; Times: 2
+	Query: "Pyroderus scutatus" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980 tissue:1" ; Times: 1
+	Query: "dendragapus arizona" ; Times: 1
+	Query: "type:specimen genus:eupetomena class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Baryphthengus martii tissue:1" ; Times: 1
+	Query: "genus:goura" ; Times: 1
+	Query: "175126" ; Times: 1
+	Query: "class:Aves continent:North america (Ivory)" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "scolopax minor" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 2
+	Query: "Icterus icterus tissue:1" ; Times: 3
+	Query: "Paradisaea tissue:1" ; Times: 1
+	Query: "class:Aves county:&#34;runnels&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34; tissue:1" ; Times: 3
+	Query: "type:specimen specificepithet:cayana genus:Piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus fuscescens tissue:1" ; Times: 1
+	Query: "cistothorus palustris tissue:1" ; Times: 1
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 3
+	Query: "coeligena coeligena" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 924 download events in this period)
+Total number of records downloaded: 31562
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 18
+	Country: India ; Times: 2
+	Country: United States ; Times: 35
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 4
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 7
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-26 ; Times: 14
+	Date: 2016-08-23 ; Times: 4
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "&#34;ammodramus nelsoni&#34; type:specimen tissue:1" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "chrysoparia" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: "coeligena coeligena cuzco type:specimen" ; Times: 2
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "Catharus fuscater mappable:1" ; Times: 1
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:chrysops genus:zimmerius" ; Times: 2
+	Query: "cistothorus palustris tissue:1" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "cistothorus platensis tissue:1" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1961 year &lt;= 1990" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Icterus croconotus tissue:1" ; Times: 1
+	Query: "Icterus graceannae tissue:1" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Calandrella country:&#34;India&#34;" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Icterus cayanensis tissue:1" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "invertebrate" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 1
+	Query: "Ptilonorhynchus AMNH" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Todus todus tissue:1" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1920 year &lt;= 1960" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Picoides tridactylus year &gt;= 1980" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "Picoides dorsalis year &gt;= 1980" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "&#34;otus asio&#34; tissue:1" ; Times: 1
+
+
+End of report.
