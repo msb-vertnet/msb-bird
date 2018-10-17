@@ -1,0 +1,378 @@
+Report for Institution Code MSB, Resource msb_bird
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 382
+Number of records retrieved in searches: 4494
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 3
+	Country: Russia ; Times: 7
+	Country: Australia ; Times: 33
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 49
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 7
+	Country: United States ; Times: 227
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 8
+	Country: United Kingdom ; Times: 8
+	Country: Peru ; Times: 4
+	Country: China ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 18
+	Date: 2018-06-06 ; Times: 15
+	Date: 2018-06-05 ; Times: 29
+	Date: 2018-06-04 ; Times: 17
+	Date: 2018-06-03 ; Times: 3
+	Date: 2018-06-02 ; Times: 5
+	Date: 2018-06-01 ; Times: 13
+	Date: 2018-06-25 ; Times: 48
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 9
+	Date: 2018-06-26 ; Times: 7
+	Date: 2018-06-21 ; Times: 22
+	Date: 2018-06-20 ; Times: 14
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-08 ; Times: 39
+	Date: 2018-06-09 ; Times: 6
+	Date: 2018-06-22 ; Times: 8
+	Date: 2018-06-10 ; Times: 5
+	Date: 2018-06-11 ; Times: 61
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-13 ; Times: 10
+	Date: 2018-06-14 ; Times: 3
+	Date: 2018-06-15 ; Times: 10
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-17 ; Times: 2
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 11
+	Date: 2018-06-30 ; Times: 5
+	Date: 2018-06-29 ; Times: 5
+	Date: 2018-06-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "95500" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "sterna maxima" ; Times: 4
+	Query: "testis genus:loxia sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "Atlapetes canigenis" ; Times: 2
+	Query: "Screech owl hastissue:1" ; Times: 2
+	Query: "nutria" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "coyote new mexico" ; Times: 2
+	Query: "Canis latrans Valles Caldera" ; Times: 1
+	Query: "distance(location,geopoint(45.1119776310102,-94.507046023876))&lt;45034" ; Times: 1
+	Query: "Hartman" ; Times: 2
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 1
+	Query: "Atlapetes melanopsis" ; Times: 2
+	Query: "cardellina liver" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "Gila bicolor" ; Times: 2
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 2
+	Query: "Atlapetes seebohmi" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "genus:Threskiornis family:Threskiornithidae continent:Africa" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "genus:Zosterops family:Zosteropidae class:Aves (W. A.)" ; Times: 1
+	Query: "new jersey liver" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 2
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1962" ; Times: 1
+	Query: "Gray Wolf" ; Times: 2
+	Query: "dicrurus waldenii" ; Times: 2
+	Query: "elf owl" ; Times: 19
+	Query: "Pyrrhura" ; Times: 2
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "distance(location,geopoint(45.2753844185115,-94.1628331295119))&lt;22822" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "oenanthe lugubris" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "rhynchocyclus" ; Times: 2
+	Query: "sterna dougallii vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:erythrophthalmus genus:pipilo month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Museum of Southwestern Biology in Albuquerque institutioncode:MSB" ; Times: 1
+	Query: "lagopus new mexico" ; Times: 1
+	Query: "francolinus (skeleton)" ; Times: 5
+	Query: "laterallus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "specificepithet:cyanea genus:chlorophonia hastissue:1" ; Times: 1
+	Query: "systellura longirostris" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "lamprotornis iris" ; Times: 1
+	Query: "specificepithet:andicola genus:Leptasthenura country:&#34;Peru&#34;" ; Times: 2
+	Query: "liver paridae" ; Times: 1
+	Query: "nothocercus" ; Times: 1
+	Query: "specificepithet:townsendi genus:Setophaga" ; Times: 1
+	Query: "poling" ; Times: 1
+	Query: "catalognumber:35526 institutioncode:MSB" ; Times: 1
+	Query: "Canis latrans new mexico Sandoval County" ; Times: 1
+	Query: "acridotheres albocinctus" ; Times: 1
+	Query: "lagopus leucurus new mexico" ; Times: 1
+	Query: "Bernalillo County picoides villosus" ; Times: 1
+	Query: "specificepithet:chrysoides genus:Colaptes" ; Times: 3
+	Query: "willardi" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Atlapetes rufinucha" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "MSB 25450" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "locality:EL MORRO stateprovince:&#34;NEW MEXICO&#34;" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "Parus major" ; Times: 1
+	Query: "Wolf Skull" ; Times: 1
+	Query: "humming bird" ; Times: 4
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "ku 17777" ; Times: 3
+	Query: "North American Grey Wolf" ; Times: 1
+	Query: "Batis" ; Times: 1
+	Query: "neomorphus geoffroyi" ; Times: 3
+	Query: "body mass" ; Times: 1
+	Query: "locality:el morro" ; Times: 7
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "specificepithet:albiceps genus:psalidoprocne" ; Times: 1
+	Query: "lagopus leucura" ; Times: 3
+	Query: "Lepidothrix coronata" ; Times: 1
+	Query: "Aegolius harrisii harrisii" ; Times: 1
+	Query: "Struthio camelus" ; Times: 2
+	Query: "lagopus leucura new mexico" ; Times: 1
+	Query: "grey wolf" ; Times: 2
+	Query: "Bobcat" ; Times: 2
+	Query: "Gray wolf" ; Times: 1
+	Query: "specificepithet:atropileus genus:hemispingus" ; Times: 1
+	Query: "chlorophonia cyanea" ; Times: 2
+	Query: "black bear" ; Times: 6
+	Query: "crotalus willardi" ; Times: 6
+	Query: "21294" ; Times: 1
+	Query: "laterallus jamaicensis mexico" ; Times: 1
+	Query: "catalognumber:35536 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 1
+	Query: "Gillespie" ; Times: 1
+	Query: "genus:Entomodestes hastissue:1" ; Times: 1
+	Query: "Blue Grouse hastissue:1" ; Times: 2
+	Query: "Entomodestes" ; Times: 2
+	Query: "class:aves catalognumber:29304" ; Times: 1
+	Query: "gray wolf" ; Times: 3
+	Query: "19696" ; Times: 1
+	Query: "specificepithet:lineata genus:dacnis hasmass:1" ; Times: 1
+	Query: "nothoprocta taczanowskii" ; Times: 1
+	Query: "bobcat" ; Times: 5
+	Query: "aegithalidae liver" ; Times: 1
+	Query: "Opisthocomus hoazin country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:mirabilis genus:Cyanolyca" ; Times: 1
+	Query: "Alnus" ; Times: 1
+	Query: "bird wings and tails" ; Times: 1
+	Query: "specificepithet:virens genus:Dendroica year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:aves catalognumber:36107" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "specificepithet:atropileus genus:hemispingus hasmass:1" ; Times: 1
+	Query: "specificepithet:taeniatus institutioncode:MSB" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "richard f johnston" ; Times: 3
+	Query: "sandia picoides villosus" ; Times: 1
+	Query: "White Oak creek" ; Times: 1
+	Query: "horses" ; Times: 1
+	Query: "melancoryphus" ; Times: 1
+	Query: "bolivianus" ; Times: 1
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "order:Columbiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Scytalopus femoralis hastissue:1" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "751204" ; Times: 1
+	Query: "johannae" ; Times: 2
+	Query: "minnesota Tyrannus tyrannus" ; Times: 1
+	Query: "(lter)" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "specificepithet:andicola genus:Leptasthenura" ; Times: 1
+	Query: "Atlapetes rufigenis" ; Times: 2
+	Query: "crowley county colorado" ; Times: 1
+	Query: "mammalian" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1963" ; Times: 1
+	Query: "numenius borealis" ; Times: 29
+	Query: "grus canadensis" ; Times: 1
+	Query: "Calliope pectoralis" ; Times: 1
+	Query: "Canis latrans new mexico Sandoval" ; Times: 1
+	Query: "genus:Machaeropterus (skeleton)" ; Times: 1
+	Query: "grallaria" ; Times: 1
+	Query: "locality:EL MORRO" ; Times: 1
+	Query: "specificepithet:wallacei" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Falcipennis hastissue:1" ; Times: 1
+	Query: "hypocnemis peruviana" ; Times: 2
+	Query: "cabezon" ; Times: 1
+	Query: "191915" ; Times: 2
+	Query: "cienega creek county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "GREY WOLF" ; Times: 1
+	Query: "sage grouse" ; Times: 1
+	Query: "MSB 25414" ; Times: 1
+	Query: "South toe" ; Times: 3
+	Query: "MSB 25412" ; Times: 1
+	Query: "confinis hastissue:1" ; Times: 1
+	Query: "specificepithet:mexicanus genus:himantopus hastissue:1" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "Poecile atricapilla" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "Barn Swallow vntype:specimen" ; Times: 2
+	Query: "Lophonetta specularioides" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "specificepithet:asiatica genus:Zenaida" ; Times: 3
+	Query: "Petrified Forest" ; Times: 1
+	Query: "genus:Acanthis hastissue:1" ; Times: 1
+	Query: "Junco hyemalis aikeni" ; Times: 1
+	Query: "Diglossa" ; Times: 39
+	Query: "specificepithet:flammea genus:Acanthis hastissue:1" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 2
+	Query: "genus:Ciccaba class:Aves basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:leucoptera genus:loxia hassex:1 hasmass:1" ; Times: 1
+	Query: "anthracinus" ; Times: 3
+	Query: "vntype:specimen (Casuarius casuarius)" ; Times: 1
+	Query: "MSB Bird 28940" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 2
+	Query: "pinorum" ; Times: 2
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Canis latrans Valle Grande" ; Times: 1
+	Query: "class:aves catalognumber:29294" ; Times: 2
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "specificepithet:cincta class:Aves" ; Times: 1
+	Query: "lepidothrix" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1922 year &lt;= 1922 month &gt;= 11 month &lt;= 11" ; Times: 1
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "blue grouse" ; Times: 7
+	Query: "Atlapetes forbesi" ; Times: 2
+	Query: "sterna maxima skeleton" ; Times: 2
+	Query: "class:Aves (33324)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 91 (out of 1169 download events in this period)
+Total number of records downloaded: 9002
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 17
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 57
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 7
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-05 ; Times: 11
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-29 ; Times: 5
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 17
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-22 ; Times: 3
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 10
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "grey wolf" ; Times: 2
+	Query: "gray wolf" ; Times: 2
+	Query: "black bear" ; Times: 4
+	Query: "genus:Pipilo stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "order:Passeriformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "specificepithet:minimus genus:psaltriparus haslifestage:1 hasmass:1" ; Times: 1
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "coyote new mexico" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "GREY WOLF" ; Times: 1
+	Query: "sage grouse" ; Times: 2
+	Query: "chihuahua" ; Times: 2
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "order:Strigiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(35.784892341187586,-116.70189927220218))&lt;177353" ; Times: 1
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "humming bird" ; Times: 1
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "order:Accipitriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "oriturus" ; Times: 1
+	Query: "elf owl" ; Times: 15
+	Query: "Junco hyemalis aikeni" ; Times: 2
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "order:Columbiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Canis latrans new mexico" ; Times: 1
+	Query: "genus:Ciccaba class:Aves basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Aegolius harrisii harrisii" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "order:Galliformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "systellura longirostris" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "lepidothrix" ; Times: 1
+	Query: "locality:el morro" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+
+
+End of report.
