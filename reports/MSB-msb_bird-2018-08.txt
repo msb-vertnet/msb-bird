@@ -1,0 +1,428 @@
+Report for Institution Code MSB, Resource msb_bird
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 633
+Number of records retrieved in searches: 3795
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 461
+	Country: Netherlands ; Times: 4
+	Country: Colombia ; Times: 48
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 5
+	Country: Venezuela ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 26
+	Country: Spain ; Times: 4
+	Country: Peru ; Times: 21
+	Country: Denmark ; Times: 11
+	Country: Argentina ; Times: 3
+	Country: Cyprus ; Times: 5
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 16
+	Date: 2018-08-31 ; Times: 20
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-19 ; Times: 5
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-23 ; Times: 9
+	Date: 2018-08-14 ; Times: 12
+	Date: 2018-08-15 ; Times: 23
+	Date: 2018-08-12 ; Times: 7
+	Date: 2018-08-13 ; Times: 9
+	Date: 2018-08-10 ; Times: 180
+	Date: 2018-08-11 ; Times: 28
+	Date: 2018-08-02 ; Times: 32
+	Date: 2018-08-08 ; Times: 15
+	Date: 2018-08-03 ; Times: 14
+	Date: 2018-08-17 ; Times: 3
+	Date: 2018-08-27 ; Times: 6
+	Date: 2018-08-24 ; Times: 15
+	Date: 2018-08-09 ; Times: 56
+	Date: 2018-08-22 ; Times: 20
+	Date: 2018-08-21 ; Times: 13
+	Date: 2018-08-20 ; Times: 25
+	Date: 2018-08-05 ; Times: 46
+	Date: 2018-08-04 ; Times: 4
+	Date: 2018-08-07 ; Times: 7
+	Date: 2018-08-06 ; Times: 19
+	Date: 2018-08-01 ; Times: 25
+	Date: 2018-08-29 ; Times: 10
+	Date: 2018-08-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Willardi" ; Times: 1
+	Query: "geositta" ; Times: 1
+	Query: "specificepithet:albolineatus genus:lepidocolaptes hasmass:1" ; Times: 2
+	Query: "pipreola riefferii" ; Times: 3
+	Query: "genus:Parabuteo" ; Times: 1
+	Query: "sterna aleutica" ; Times: 2
+	Query: "vntype:specimen specificepithet:trichopsis genus:otus" ; Times: 1
+	Query: "11363" ; Times: 2
+	Query: "10699" ; Times: 1
+	Query: "172021" ; Times: 2
+	Query: "tumor hastissue:1" ; Times: 1
+	Query: "Bishop Museum Bird Specimens" ; Times: 1
+	Query: "specificepithet:vitellinus genus:Ramphastos" ; Times: 1
+	Query: "24493" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "crayfish" ; Times: 1
+	Query: "lepidocolaptes albolineatus" ; Times: 2
+	Query: "33147 class:aves" ; Times: 1
+	Query: "21408" ; Times: 1
+	Query: "crotalus willardi obscurus" ; Times: 2
+	Query: "Crypturellus obsoletus" ; Times: 2
+	Query: "vntype:specimen specificepithet:olivacea genus:stactolaema year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "genus:Indicator hastissue:1" ; Times: 2
+	Query: "ku 17732" ; Times: 1
+	Query: "specificepithet:juncidis genus:Cisticola hastissue:1" ; Times: 1
+	Query: "Aglaeactis hastissue:1" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "catalognumber:30838 institutioncode:MSB" ; Times: 1
+	Query: "162279" ; Times: 1
+	Query: "Ara macao" ; Times: 3
+	Query: "Wing cord class:Aves" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "KU 17777" ; Times: 2
+	Query: "Coeligena iris" ; Times: 1
+	Query: "catalognumber:30908 institutioncode:MSB" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "Catamenia homochroa" ; Times: 1
+	Query: "genus:diomedea class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Mammalian" ; Times: 1
+	Query: "Aratinga" ; Times: 2
+	Query: "25211" ; Times: 1
+	Query: "vntype:specimen specificepithet:olivascens genus:Sicalis" ; Times: 1
+	Query: "rhipidura rufifrons year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "flavigularis" ; Times: 2
+	Query: "Crotalus obscurus" ; Times: 3
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "catalognumber:25453 institutioncode:MSB" ; Times: 1
+	Query: "purdue" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 8
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "specificepithet:intermedia genus:Egretta institutioncode:MSB" ; Times: 1
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "passerina amoena x passerina cyanea" ; Times: 1
+	Query: "Raw" ; Times: 5
+	Query: "11472" ; Times: 1
+	Query: "MSB 43433" ; Times: 2
+	Query: "specificepithet:rufifrons genus:rhipidura year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "genus:Vidua institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "catalognumber:29844 institutioncode:MSB" ; Times: 1
+	Query: "picoides borealis" ; Times: 1
+	Query: "spider" ; Times: 2
+	Query: "Auriparus flaviceps hastissue:1" ; Times: 2
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 2
+	Query: "specificepithet:albolineatus genus:lepidocolaptes" ; Times: 1
+	Query: "genus:Setophaga class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "173164" ; Times: 3
+	Query: "montezumae" ; Times: 1
+	Query: "excubitor" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "specificepithet:crissale genus:Toxostoma institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "MSB 25246" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma hastissue:1" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 2
+	Query: "locality:el morro stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 1
+	Query: "16139 KU" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla hastissue:1" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "30447" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "MSB 18064" ; Times: 1
+	Query: "specificepithet:borealis genus:Numenius institutioncode:MSB" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "genus:Ramphastos" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34; institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "class:aves recordedby:handley" ; Times: 1
+	Query: "MSB 145250" ; Times: 3
+	Query: "locality:el morro" ; Times: 1
+	Query: "coeligena violifer" ; Times: 4
+	Query: "genus:psittacula" ; Times: 1
+	Query: "turdus migratorius liver" ; Times: 2
+	Query: "specificepithet:flaviceps genus:Auriparus hastissue:1" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "Toxostoma crissale hastissue:1" ; Times: 1
+	Query: "specificepithet:graciae genus:Setophaga hastissue:1" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "institutioncode:MSB 2218" ; Times: 1
+	Query: "vntype:specimen specificepithet:ingens genus:megascops" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichopsis genus:megascops" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;mexico&#34;" ; Times: 1
+	Query: "Metallura aeneocauda" ; Times: 1
+	Query: "pyrrhura" ; Times: 1
+	Query: "empidonax traillii extimus" ; Times: 2
+	Query: "Falco femoralis" ; Times: 1
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 1
+	Query: "crotalus willardi" ; Times: 19
+	Query: "lepidothrix coronata" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "doryfera johannae" ; Times: 2
+	Query: "catalognumber:29566 institutioncode:MSB" ; Times: 1
+	Query: "vntype:specimen specificepithet:koepckeae genus:megascops" ; Times: 2
+	Query: "geositta maritima" ; Times: 3
+	Query: "house finch" ; Times: 2
+	Query: "recordedby:Whitney year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "peru specificepithet:derbianus genus:aulacorhynchus class:aves" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 11
+	Query: "specificepithet:graciae genus:Dendroica hastissue:1" ; Times: 1
+	Query: "MSB 194097" ; Times: 2
+	Query: "francolinus (skeleton)" ; Times: 1
+	Query: "MSB 144151" ; Times: 1
+	Query: "MSB 163807" ; Times: 2
+	Query: "recordedby:campbell year &gt;= 1960 year &lt;= 1960" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Numenius institutioncode:MSB" ; Times: 1
+	Query: "lepidothrix coronata coronata" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "locality:sand creek" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma" ; Times: 1
+	Query: "genus:Phainopepla hastissue:1" ; Times: 1
+	Query: "MSB 30518" ; Times: 1
+	Query: "MSB 24456" ; Times: 1
+	Query: "MSB 45150" ; Times: 1
+	Query: "shells" ; Times: 1
+	Query: "specificepithet:riefferii genus:Pipreola" ; Times: 1
+	Query: "specificepithet:ossifragus genus:corvus class:aves" ; Times: 1
+	Query: "aglaeactis" ; Times: 1
+	Query: "junco liver" ; Times: 1
+	Query: "MSB 28940" ; Times: 1
+	Query: "T1484" ; Times: 1
+	Query: "family:apodidae continent:Africa" ; Times: 2
+	Query: "pipreola riefferii riefferii" ; Times: 4
+	Query: "B-3403" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "Poicephalus te" ; Times: 8
+	Query: "cardinalis cardinalis MSB" ; Times: 2
+	Query: "Nucifraga" ; Times: 1
+	Query: "poicephalus breeding" ; Times: 11
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "Upupa epops" ; Times: 3
+	Query: "Sporophila minuta" ; Times: 1
+	Query: "Scytalopus magellanicus" ; Times: 1
+	Query: "15862" ; Times: 2
+	Query: "specificepithet:pica genus:Pica class:Aves hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:guatemalae genus:megascops" ; Times: 1
+	Query: "specificepithet:epops genus:Upupa hastissue:1" ; Times: 1
+	Query: "14615 KU" ; Times: 1
+	Query: "Sturnella loyca" ; Times: 1
+	Query: "(rhipidura rufifrons) year &gt;= 1990" ; Times: 1
+	Query: "genus:Catharus year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "johannae" ; Times: 3
+	Query: "amnh database" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "3449" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 2
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "genus:Pica class:Aves hastissue:1" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "Picumnus" ; Times: 1
+	Query: "institutioncode:msb cardinalis cardinalis" ; Times: 1
+	Query: "Sterna aleutica" ; Times: 178
+	Query: "sicalis olivascens" ; Times: 4
+	Query: "specificepithet:derbianus genus:aulacorhynchus class:aves" ; Times: 1
+	Query: "family:indicatoridae hastissue:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:Calcarius stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Frierson" ; Times: 1
+	Query: "B.39306" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "39306" ; Times: 1
+	Query: "KU 8132" ; Times: 2
+	Query: "Aix sponsa hasmass:1" ; Times: 1
+	Query: "scytalopus peru" ; Times: 1
+	Query: "catalognumber:29562 institutioncode:MSB" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "specificepithet:cupripennis genus:Aglaeactis hastissue:1" ; Times: 1
+	Query: "empidonax orange" ; Times: 1
+	Query: "tumor" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus year &gt;= 1904" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "specificepithet:sinuatus genus:Cardinalis hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:petersoni genus:megascops" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "218257" ; Times: 1
+	Query: "Pertinax hasmass:1" ; Times: 1
+	Query: "10760" ; Times: 2
+	Query: "msb bird 24193" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 4
+	Query: "catalognumber:26896 institutioncode:MSB" ; Times: 1
+	Query: "Myiozetetes cayanensis" ; Times: 2
+	Query: "specificepithet:alba genus:Tyto class:Aves hastissue:1" ; Times: 1
+	Query: "colinus AND carolina" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "catalognumber:23795 institutioncode:MSB" ; Times: 1
+	Query: "167625" ; Times: 1
+	Query: "turdus new britain" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "zimmerius" ; Times: 1
+	Query: "specificepithet:tucanus genus:Ramphastos" ; Times: 1
+	Query: "institutioncode:MSB 2218*" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 15
+	Query: "institutioncode:MSB 22186" ; Times: 1
+	Query: "Xenospingus" ; Times: 2
+	Query: "institutioncode:MSB 22180" ; Times: 2
+	Query: "oriturus superciliosus stateprovince:&#34;méxico&#34;" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "ara macao" ; Times: 17
+	Query: "specificepithet:curvirostre genus:Toxostoma hastissue:1" ; Times: 1
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 2
+	Query: "bucephala islandica" ; Times: 3
+	Query: "specificepithet:ruber genus:Sphyrapicus country:&#34;Canada&#34;" ; Times: 2
+	Query: "MSB 45060" ; Times: 2
+	Query: "oriturus superciliosus stateprovince:&#34;federal&#34;" ; Times: 2
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "todiramphus tristrami" ; Times: 8
+	Query: "eudromia elegans institutioncode:MSB" ; Times: 1
+	Query: "genus:micropsitta class:aves country:&#34;solomon&#34;" ; Times: 1
+	Query: "cardinalis cardinalis MSB Arizona" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsonii genus:megascops" ; Times: 1
+	Query: "specificepithet:castelnaudii genus:Aglaeactis hastissue:1" ; Times: 2
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "Goura scheepmakeri" ; Times: 3
+	Query: "Zonotrichia capensis" ; Times: 24
+	Query: "23 Nov 20134" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 1416 download events in this period)
+Total number of records downloaded: 24248
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 31
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 32
+	Country: Peru ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 3
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 8
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-19 ; Times: 11
+	Date: 2018-08-13 ; Times: 5
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-05 ; Times: 9
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 6
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 12
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "sicalis olivascens" ; Times: 1
+	Query: "lepidothrix coronata coronata" ; Times: 1
+	Query: "sterna aleutica" ; Times: 3
+	Query: "vntype:specimen specificepithet:trichopsis genus:otus" ; Times: 1
+	Query: "crotalus" ; Times: 2
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "(rhipidura rufifrons) year &gt;= 1990" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "tumor hastissue:1" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "class:Aves country:&#34;Belize&#34; hastissue:1" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis hastissue:1" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma hastissue:1" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 2
+	Query: "genus:Phainopepla hastissue:1" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "class:Aves basisofrecord:PreservedSpecimen hastypestatus:1" ; Times: 1
+	Query: "Oriturus superciliosus" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla hastissue:1" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsonii genus:megascops" ; Times: 1
+	Query: "hawaii bird specimens" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma hastissue:1" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "vntype:specimen specificepithet:ingens genus:megascops" ; Times: 1
+	Query: "podicipedidae" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sporophila minuta" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "oriturus superciliosus" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus hastissue:1" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichopsis genus:megascops" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "Sterna aleutica" ; Times: 2
+	Query: "vntype:specimen specificepithet:petersoni genus:megascops" ; Times: 1
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Raw" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "scytalopus peru" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "institutioncode:msb cardinalis cardinalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:koepckeae genus:megascops" ; Times: 1
+	Query: "vntype:specimen specificepithet:guatemalae genus:megascops" ; Times: 1
+
+
+End of report.
