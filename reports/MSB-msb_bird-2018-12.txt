@@ -1,0 +1,353 @@
+Report for Institution Code MSB, Resource msb_bird
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 349
+Number of records retrieved in searches: 3428
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Finland ; Times: 19
+	Country: India ; Times: 14
+	Country: France ; Times: 22
+	Country: United States ; Times: 192
+	Country: Ecuador ; Times: 4
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 18
+	Country: Peru ; Times: 14
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Nicaragua ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 4
+	Date: 2018-12-09 ; Times: 9
+	Date: 2018-12-06 ; Times: 41
+	Date: 2018-12-19 ; Times: 9
+	Date: 2018-12-18 ; Times: 19
+	Date: 2018-12-31 ; Times: 3
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 2
+	Date: 2018-12-14 ; Times: 9
+	Date: 2018-12-17 ; Times: 5
+	Date: 2018-12-16 ; Times: 8
+	Date: 2018-12-11 ; Times: 14
+	Date: 2018-12-10 ; Times: 8
+	Date: 2018-12-13 ; Times: 12
+	Date: 2018-12-12 ; Times: 10
+	Date: 2018-12-20 ; Times: 15
+	Date: 2018-12-21 ; Times: 18
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-23 ; Times: 3
+	Date: 2018-12-24 ; Times: 6
+	Date: 2018-12-25 ; Times: 4
+	Date: 2018-12-26 ; Times: 12
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-28 ; Times: 14
+	Date: 2018-12-29 ; Times: 9
+	Date: 2018-12-04 ; Times: 16
+	Date: 2018-12-05 ; Times: 24
+	Date: 2018-12-02 ; Times: 6
+	Date: 2018-12-03 ; Times: 25
+	Date: 2018-12-01 ; Times: 22
+	Date: 2018-12-07 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 17741" ; Times: 1
+	Query: "27950" ; Times: 2
+	Query: "Alca torda  mappable:1" ; Times: 1
+	Query: "Megascops kennicottii hastissue:1" ; Times: 1
+	Query: "Alca torda mappable:1" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 11
+	Query: "county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;New Mexico&#34; institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "anthus rubescens hastissue:1" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;California&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:phoeniceus genus:Cardinalis" ; Times: 1
+	Query: "8422" ; Times: 1
+	Query: "bison mexico" ; Times: 1
+	Query: "badger" ; Times: 1
+	Query: "county:&#34;Napa&#34; stateprovince:&#34;California&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "catalognumber:46243 institutioncode:MSB" ; Times: 1
+	Query: "34829 msb" ; Times: 1
+	Query: "5271" ; Times: 1
+	Query: "Patagioenas plumbea mappable:1" ; Times: 8
+	Query: "Alopochen" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "eubucco" ; Times: 1
+	Query: "165363" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 4
+	Query: "gbifdatasetid:c9076cd3-349f-4068-a5c7-bc34449c3916" ; Times: 2
+	Query: "Black River VIllage county:&#34;Eddy&#34;" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "34885" ; Times: 2
+	Query: "specificepithet:asio genus:otus" ; Times: 2
+	Query: "hylophilus ochraceiceps" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "Calidris fuscicollis" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "Dickerman 4248" ; Times: 1
+	Query: "rupicola peruvianus" ; Times: 2
+	Query: "junco liver" ; Times: 2
+	Query: "35439" ; Times: 1
+	Query: "agelaius minnesota" ; Times: 1
+	Query: "specificepithet:spurius genus:Icterus year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "Accipiter superciliosus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "agelaius santa clara" ; Times: 1
+	Query: "synallaxis courseni" ; Times: 4
+	Query: "genus:Coracina hasmass:1" ; Times: 1
+	Query: "casuarius casuarius" ; Times: 2
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "aplonis hastissue:1" ; Times: 1
+	Query: "specificepithet:dominicensis genus:Icterus preparations:skeleton" ; Times: 1
+	Query: "Larus marinus mappable:1" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "QUEEN stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Sterna albifrons mappable:1" ; Times: 1
+	Query: "MEGASCOPS ALBOGULARIS" ; Times: 2
+	Query: "specificepithet:fuertesi genus:Icterus country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Philydor" ; Times: 1
+	Query: "25721" ; Times: 1
+	Query: "grus americana" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "accipiter superciliosus" ; Times: 5
+	Query: "myiagra hastissue:1" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 2
+	Query: "Gavia arctica mappable:1" ; Times: 1
+	Query: "genus:Ramphastos hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:ferrocyanea genus:myiagra mappable:1 country:solomon islands" ; Times: 3
+	Query: "specificepithet:cryptoleucus genus:corvus year &gt;= 1970 hastissue:1" ; Times: 3
+	Query: "19926" ; Times: 1
+	Query: "Aplonis metallica metallica hastissue:1" ; Times: 2
+	Query: "mummy" ; Times: 1
+	Query: "Morus bassanus mappable:1" ; Times: 1
+	Query: "casuarius" ; Times: 1
+	Query: "Turdus merula" ; Times: 2
+	Query: "Gavia immer mappable:1" ; Times: 1
+	Query: "Accipiter superciliosus" ; Times: 20
+	Query: "Melanitta nigra mappable:1" ; Times: 1
+	Query: "recordedby:S. G. Morton" ; Times: 2
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "specificepithet:aegyptiaca genus:Alopochen" ; Times: 2
+	Query: "Cygnus olor" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; institutioncode:MSB hastissue:1" ; Times: 2
+	Query: "family:nectariniidae" ; Times: 1
+	Query: "specificepithet:niger genus:cypseloides" ; Times: 1
+	Query: "specificepithet:brunneicapillus hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "pinon county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "163033" ; Times: 1
+	Query: "pyrrhura" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis hastissue:1" ; Times: 1
+	Query: "eubucco bourcierii" ; Times: 2
+	Query: "33307" ; Times: 2
+	Query: "picoides pubescens mexico" ; Times: 1
+	Query: "farallon island" ; Times: 1
+	Query: "Sitting bull Falls county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Geotrygon violacea mappable:1" ; Times: 1
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "19858" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "275515" ; Times: 1
+	Query: "msb 223000" ; Times: 2
+	Query: "16431" ; Times: 3
+	Query: "cienega creek arizona" ; Times: 2
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "chloropipo" ; Times: 1
+	Query: "Glaucidium hardyi" ; Times: 4
+	Query: "otus sunia" ; Times: 3
+	Query: "specificepithet:petechia genus:Dendroica year &gt;= 1919 year &lt;= 1919" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 8
+	Query: "Neomorphus geoffroyi mappable:1" ; Times: 2
+	Query: "bison bison mexico" ; Times: 3
+	Query: "rallus limicola hastissue:1" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "red fox tissue" ; Times: 1
+	Query: "Pipreola" ; Times: 2
+	Query: "137 county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Oreoscoptes montanus mappable:1" ; Times: 1
+	Query: "gbifdatasetid:c9076cd3-349f-4068-a5c7-bc34449c3916 Pachycephala" ; Times: 2
+	Query: "177189" ; Times: 1
+	Query: "handley" ; Times: 1
+	Query: "athene" ; Times: 1
+	Query: "passerina amoena x cyanea" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 2
+	Query: "Melanitta fusca mappable:1" ; Times: 1
+	Query: "10732" ; Times: 2
+	Query: "genus:Monarcha hasmass:1" ; Times: 2
+	Query: "Alopochen aegyptiaca hastissue:1" ; Times: 1
+	Query: "Speotyto cunicularia hypugaea" ; Times: 1
+	Query: "specificepithet:aegyptiaca genus:Alopochen hastissue:1" ; Times: 1
+	Query: "Charadrius wilsonia" ; Times: 1
+	Query: "9861" ; Times: 1
+	Query: "vntype:specimen specificepithet:aegyptiaca genus:Alopochen" ; Times: 1
+	Query: "39747" ; Times: 1
+	Query: "NCSM coronata" ; Times: 1
+	Query: "Glaucidium jardinii" ; Times: 1
+	Query: "Alopochen aegyptiaca" ; Times: 3
+	Query: "specificepithet:pusilla genus:Sitta" ; Times: 1
+	Query: "116272" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "msb 100222" ; Times: 3
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "family:Trochilidae class:aves preparations:skull" ; Times: 3
+	Query: "Rhipidura rufifrons year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "cienega creek" ; Times: 4
+	Query: "Chloropsis aurifrons" ; Times: 8
+	Query: "ramphastos" ; Times: 1
+	Query: "Bison bison mexico" ; Times: 2
+	Query: "aves spleen" ; Times: 12
+	Query: "tyrannus eggs" ; Times: 1
+	Query: "Aplonis metallica metallica" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "Sterna paradisaea mappable:1" ; Times: 1
+	Query: "specificepithet:ustulatus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "MBM" ; Times: 1
+	Query: "Glaucidium peruanum" ; Times: 1
+	Query: "vntype:specimen county:&#34;ionia&#34; stateprovince:&#34;michigan&#34; hassex:1" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "Sterna hirundo mappable:1" ; Times: 1
+	Query: "family:Caprimulgidae preparations:skull" ; Times: 2
+	Query: "passerina cyanea x amoena" ; Times: 1
+	Query: "Aphelocoma coerulescens mappable:1" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 2005 year &lt;= 2018" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "Larus argentatus mappable:1" ; Times: 1
+	Query: "myiagra ferrocyanea hastissue:1" ; Times: 1
+	Query: "15623" ; Times: 1
+	Query: "junco hyemalis spleen" ; Times: 2
+	Query: "Aplonis solomon islands" ; Times: 1
+	Query: "pipreola" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 20
+	Query: "12281" ; Times: 1
+	Query: "junco spleen" ; Times: 2
+	Query: "10379" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 3
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "aplonis metallica" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "45407" ; Times: 1
+	Query: "class:Aves country:&#34;Belize&#34; year &gt;= 2005 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "county:&#34;Yolo&#34; stateprovince:&#34;California&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Larus ridibundus mappable:1" ; Times: 2
+	Query: "Rissa tridactyla mappable:1" ; Times: 1
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "168105" ; Times: 2
+	Query: "Aegolius harrisii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 809 download events in this period)
+Total number of records downloaded: 5504
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 16
+	Country: France ; Times: 1
+	Country: United States ; Times: 23
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 9
+	Date: 2018-12-31 ; Times: 3
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-14 ; Times: 2
+	Date: 2018-12-17 ; Times: 8
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-20 ; Times: 4
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 4
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Glaucidium hardyi" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "chloropipo" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Glaucidium peruanum" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "otus sunia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "family:Canidae AND (NOT baileyi) institutioncode:MSB" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Coccyzus americanus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "pipreola" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Cardinalis" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "vntype:specimen family:Canidae institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Glaucidium jardinii" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 2
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "class:Aves country:&#34;Belize&#34; hastissue:1" ; Times: 1
+
+
+End of report.
