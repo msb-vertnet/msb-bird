@@ -1,0 +1,390 @@
+Report for Institution Code MSB, Resource msb_bird
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 330
+Number of records retrieved in searches: 2898
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 243
+	Country: Israel ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: Argentina ; Times: 2
+	Country: United Kingdom ; Times: 23
+	Country: Guatemala ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 23
+	Country: Belgium ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Norway ; Times: 2
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 19
+	Date: 2020-02-23 ; Times: 4
+	Date: 2020-02-02 ; Times: 7
+	Date: 2020-02-03 ; Times: 17
+	Date: 2020-02-26 ; Times: 9
+	Date: 2020-02-01 ; Times: 6
+	Date: 2020-02-20 ; Times: 17
+	Date: 2020-02-21 ; Times: 51
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-05 ; Times: 12
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-28 ; Times: 12
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 16
+	Date: 2020-02-10 ; Times: 9
+	Date: 2020-02-13 ; Times: 13
+	Date: 2020-02-12 ; Times: 9
+	Date: 2020-02-15 ; Times: 6
+	Date: 2020-02-14 ; Times: 17
+	Date: 2020-02-17 ; Times: 6
+	Date: 2020-02-16 ; Times: 6
+	Date: 2020-02-19 ; Times: 7
+	Date: 2020-02-18 ; Times: 33
+	Date: 2020-02-24 ; Times: 7
+	Date: 2020-02-25 ; Times: 19
+	Date: 2020-02-27 ; Times: 9
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-07 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Mellivora" ; Times: 1
+	Query: "2-6775" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "circus hudsonius hastissue:1" ; Times: 1
+	Query: "zaratornis" ; Times: 2
+	Query: "36877" ; Times: 1
+	Query: "220092" ; Times: 1
+	Query: "specificepithet:tolmiei year &gt;= 1990 month &gt;= 6 month &lt;= 8 institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "275640" ; Times: 1
+	Query: "family:Ploceidae" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "msb 273731" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:casmerodius class:aves country:&#34;United States&#34;" ; Times: 2
+	Query: "22179" ; Times: 1
+	Query: "71342 institutioncode:MSB" ; Times: 1
+	Query: "Calliope Hummingbird" ; Times: 2
+	Query: "cinclodes year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "yanacensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;new mexico&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Calcarius pictus" ; Times: 1
+	Query: "Cacicus cela" ; Times: 3
+	Query: "15683" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "vntype:specimen family:dicaeidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "specificepithet:lactea genus:Amazilia hastissue:1" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 2
+	Query: "Larus delawarensis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:igniventris genus:anisognathus hastissue:1" ; Times: 2
+	Query: "728129" ; Times: 1
+	Query: "Leptasthenura pileata year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "specificepithet:Caesius genus:Thamnomanes class:Aves" ; Times: 2
+	Query: "Calcarius lapponicus" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "lisa barrow" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "egg falco peregrinus" ; Times: 1
+	Query: "(window building strike)" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:Alexander Walker" ; Times: 2
+	Query: "eremita" ; Times: 2
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "207191" ; Times: 1
+	Query: "Dryocopus lineatus eggs" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 2
+	Query: "Oceanodroma leucorhoa" ; Times: 1
+	Query: "Leptasthenura andicola year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "MSB 42658" ; Times: 1
+	Query: "specificepithet:lubomirskii genus:pipreola hastissue:1" ; Times: 1
+	Query: "myiozetetes cayanensis" ; Times: 1
+	Query: "locality:Sonoita" ; Times: 2
+	Query: "specificepithet:celata stateprovince:&#34;new mexico&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "l3" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "class:Aves county:&#34;westmoreland&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Attila spadiceus" ; Times: 3
+	Query: "NA NA" ; Times: 3
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "class:aves catalognumber:44399 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "ABJ 1100" ; Times: 1
+	Query: "Anairetes parulus" ; Times: 1
+	Query: "specificepithet:castaneiceps hastissue:1" ; Times: 1
+	Query: "27101 institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "prosopis" ; Times: 4
+	Query: "Pharomachrus" ; Times: 2
+	Query: "vntype:specimen class:Aves locality:Araguaia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 4
+	Query: "33720 Aves" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "specificepithet:lacrymosus genus:anisognathus hastissue:1" ; Times: 1
+	Query: "Anas diazi" ; Times: 20
+	Query: "msb 60503" ; Times: 1
+	Query: "alvarez del toro miguel" ; Times: 2
+	Query: "Grallaria andicolus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "168030" ; Times: 1
+	Query: "specificepithet:calliparaea genus:chlorochrysa hastissue:1" ; Times: 1
+	Query: "catalognumber:26814 year &gt;= 1990 month &gt;= 6 month &lt;= 8 institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "Conirostrum cinereum year &gt; 1985 NOT CLO" ; Times: 2
+	Query: "176095" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Psarocolius decumanus" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:MSB" ; Times: 1
+	Query: "Anairetes parulus year &gt; 1985" ; Times: 1
+	Query: "specificepithet:Aedon genus:Troglodytes institutioncode:MSB" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "16240" ; Times: 1
+	Query: "Monachus" ; Times: 2
+	Query: "yanacensis NOT CLO year &gt; 1985" ; Times: 1
+	Query: "accipiter novaehollandiae country:&#34;australia&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "Molothrus bonariensis" ; Times: 1
+	Query: "coeligena iris" ; Times: 3
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "specificepithet:Aedon genus:Troglodytes continent:South America institutioncode:MSB" ; Times: 1
+	Query: "msb 304293" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "bee world" ; Times: 1
+	Query: "crotalus willardi" ; Times: 2
+	Query: "locality:El Arenal " ; Times: 1
+	Query: "168967" ; Times: 1
+	Query: "warbling vireo" ; Times: 1
+	Query: "accipiter novaehollandiae country:&#34;australia&#34; year &gt;= 1950 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Ortygospiza atricollis" ; Times: 2
+	Query: "xenodacnis parina year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "specificepithet:nycticorax genus:Nycticorax year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "oceanodroma leucorhoa" ; Times: 1
+	Query: "Smithsonian Cathartidae" ; Times: 1
+	Query: "jubata" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "Crotalus willardi obscurus" ; Times: 1
+	Query: "MSB 40886" ; Times: 1
+	Query: "class:aves catalognumber:21416 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:31418 institutioncode:MSB" ; Times: 1
+	Query: "sturnella neglecta institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullatus genus:Coryphospingus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:geothlypis stateprovince:&#34;New mexico&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "Campephaga petiti" ; Times: 1
+	Query: "zaratornis year &gt; 1985" ; Times: 1
+	Query: "Anairetes parulus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "162188" ; Times: 1
+	Query: "catalognumber:26822 year &gt;= 1990 month &gt;= 6 month &lt;= 8 institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Thamnomanes class:Aves stateprovince:&#34;Madre de Dios&#34; country:&#34;Peru&#34; continent:South America basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "locality:sycamore canyon" ; Times: 3
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "vntype:specimen specificepithet:alba genus:Ardea class:aves country:&#34;United States&#34;" ; Times: 4
+	Query: "39229" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 4
+	Query: "specificepithet:delawarensis genus:Larus county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34; month &gt;= 4 month &lt;= 6" ; Times: 1
+	Query: "onychorhynchus coronatus" ; Times: 1
+	Query: "specificepithet:squamiger genus:margarornis hastissue:1" ; Times: 1
+	Query: "Serinus canaria canaria" ; Times: 1
+	Query: "Gallus varius" ; Times: 2
+	Query: "specificepithet:chrysonotus genus:cacicus hastissue:1" ; Times: 2
+	Query: "grey wolf" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "bison bison" ; Times: 1
+	Query: "class:Aves catalognumber:12020" ; Times: 1
+	Query: "Callipepla douglasii" ; Times: 5
+	Query: "family:apodidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "catalognumber:26813 year &gt;= 1990 month &gt;= 6 month &lt;= 8 institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "msb 27868" ; Times: 1
+	Query: "catalognumber:26821 year &gt;= 1990 month &gt;= 6 month &lt;= 8 institutioncode:MSB hastissue:1" ; Times: 2
+	Query: "accipiter novaehollandiae year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "Oreomanes fraseri year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "accipiter hiogaster vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "12020" ; Times: 1
+	Query: "Cacicus solitarius" ; Times: 2
+	Query: "county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "specificepithet:coronata family:parulidae year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "class:aves catalognumber:29154 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:MSB" ; Times: 1
+	Query: "dryas" ; Times: 2
+	Query: "Thraupis bonariensis" ; Times: 2
+	Query: "mammalian" ; Times: 2
+	Query: "Grallaria squamigera year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "accipiter novaehollandiae hastissue:1" ; Times: 1
+	Query: "larus thayeri hastissue:1" ; Times: 1
+	Query: "video" ; Times: 1
+	Query: "Larus delawarensis county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34; preparations:egg" ; Times: 1
+	Query: "bird body mass" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899" ; Times: 2
+	Query: "sylvietta hastissue:1" ; Times: 1
+	Query: "MSB 40883" ; Times: 2
+	Query: "284148" ; Times: 1
+	Query: "gray wolf" ; Times: 3
+	Query: "setophaga coronata auduboni" ; Times: 1
+	Query: "specificepithet:reinhardti genus:iridosornis hastissue:1" ; Times: 1
+	Query: "15700" ; Times: 1
+	Query: "277123" ; Times: 1
+	Query: "221957" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "specificepithet:jelskii genus:iridosornis hastissue:1" ; Times: 1
+	Query: "Cinclodes fuscus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "Conirostrum sitticolor year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "locality:Mt. Diablo stateprovince:&#34;California&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Sphenoeacus afer" ; Times: 2
+	Query: "Leptasthenura striata year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "casmerodius albus" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "Tikasingh" ; Times: 2
+	Query: "87107" ; Times: 1
+	Query: "yanacensis NOT CLO" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 2
+	Query: "class:aves locality:sycamore canyon" ; Times: 1
+	Query: "Grus canadensis" ; Times: 2
+	Query: "Larus delawarensis county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "passer domesticus year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "anas discors" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "specificepithet:phoebe genus:sayornis family:Tyrannidae hastissue:1" ; Times: 2
+	Query: "genus:Molothrus stateprovince:&#34;California&#34; year &lt;= 1910" ; Times: 1
+	Query: "Crotalus willardi willardi" ; Times: 1
+	Query: "277686" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Brown year &gt;= 2004 year &lt;= 2020" ; Times: 1
+	Query: "sylvietta" ; Times: 1
+	Query: "msb vireo bellii" ; Times: 1
+	Query: "vntype:specimen family:dicaeidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "dendroica kirtlandii vntype:specimen" ; Times: 1
+	Query: "specificepithet:eremita genus:Megapodius hastissue:1" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "psiloscops" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "monachus" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "vireo bellii new mexico hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 2
+	Query: "7239" ; Times: 1
+	Query: "class:aves catalognumber:21419 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;texas&#34; year &gt;= 1849 year &lt;= 1953" ; Times: 1
+	Query: "accipiter hiogaster vntype:specimen year &gt;= 1950 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "A. inornatus" ; Times: 1
+	Query: "family:apodidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "vntype:specimen family:dicaeidae (alcohol OR all OR ethanol OR ETOH)" ; Times: 1
+	Query: "locality:el centro" ; Times: 1
+	Query: "7742" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "Oceanodroma leucorhoa mexico" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Conirostrum ferrugineiventre year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "coraciidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1023 download events in this period)
+Total number of records downloaded: 35981
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 37
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Iraq ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-21 ; Times: 4
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 6
+	Date: 2020-02-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "setophaga coronata auduboni" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "vntype:specimen family:dicaeidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "wing order:Strigiformes class:Aves hasmass:1" ; Times: 2
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Gallus varius" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "specificepithet:formicivorus genus:melanerpes stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:aalge genus:Uria family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "family:apodidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "vntype:specimen family:dicaeidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;texas&#34; year &gt;= 1849 year &lt;= 1953" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "riparia paludicola" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "lisa barrow" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "family:apodidae (fluid OR wet OR whole)" ; Times: 1
+
+
+End of report.
