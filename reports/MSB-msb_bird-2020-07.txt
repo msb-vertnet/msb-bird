@@ -1,0 +1,306 @@
+Report for Institution Code MSB, Resource msb_bird
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 270
+Number of records retrieved in searches: 3578
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Unknown ; Times: 16
+	Country: Ireland ; Times: 13
+	Country: Laos ; Times: 1
+	Country: Venezuela ; Times: 12
+	Country: Ecuador ; Times: 13
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 7
+	Country: Philippines ; Times: 6
+	Country: United States ; Times: 113
+	Country: Sweden ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: United Kingdom ; Times: 8
+	Country: Malaysia ; Times: 3
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 32
+	Date: 2020-07-20 ; Times: 23
+	Date: 2020-07-27 ; Times: 5
+	Date: 2020-07-26 ; Times: 4
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 9
+	Date: 2020-07-01 ; Times: 15
+	Date: 2020-07-03 ; Times: 6
+	Date: 2020-07-02 ; Times: 10
+	Date: 2020-07-04 ; Times: 11
+	Date: 2020-07-07 ; Times: 8
+	Date: 2020-07-06 ; Times: 12
+	Date: 2020-07-23 ; Times: 11
+	Date: 2020-07-29 ; Times: 13
+	Date: 2020-07-18 ; Times: 11
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 6
+	Date: 2020-07-16 ; Times: 15
+	Date: 2020-07-31 ; Times: 16
+	Date: 2020-07-14 ; Times: 13
+	Date: 2020-07-17 ; Times: 6
+	Date: 2020-07-22 ; Times: 11
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-28 ; Times: 12
+	Date: 2020-07-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Buteo harlani" ; Times: 2
+	Query: "locality:taos hastissue:1" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 11
+	Query: "rodent" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "la libertad" ; Times: 1
+	Query: "genus:myzomela year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Todiramphus OR Halcyon OR Todirhamphus Rennell" ; Times: 2
+	Query: "accipiter gentilis" ; Times: 3
+	Query: "10347" ; Times: 1
+	Query: "Rabor specimens" ; Times: 3
+	Query: "apple" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "MSB 304293" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "Manatee" ; Times: 1
+	Query: "genus:pedionomus" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco county:&#34;Chaves&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 4
+	Query: "gbifdatasetid:c9076cd3-349f-4068-a5c7-bc34449c3916" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "Artemisia" ; Times: 1
+	Query: "275545" ; Times: 1
+	Query: "KU 17777" ; Times: 2
+	Query: "lobo" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "Coeligena iris" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "buteogallus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "Zosterops rendovae" ; Times: 2
+	Query: "buteo jamaicensis harlani" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "fratercula cirrhata" ; Times: 1
+	Query: "buteo harlani new mexico" ; Times: 2
+	Query: "23686" ; Times: 2
+	Query: "sporophila minuta" ; Times: 1
+	Query: "hypocnemis cantator" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "Indicator major" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "Accipiter gentilis mexico hastissue:1" ; Times: 1
+	Query: "MSB 127580" ; Times: 1
+	Query: "Calyptomena viridis continentis" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "institutioncode:MSB and Colibri thalassinus" ; Times: 1
+	Query: "Peru Rio Seco" ; Times: 1
+	Query: "Rhinoptilus cinctus" ; Times: 3
+	Query: "Corvus corax" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "MAR 8559 aves" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "rio seco peru" ; Times: 3
+	Query: "specificepithet:holosericeus genus:Amblycercus hastissue:1" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Rennell" ; Times: 1
+	Query: "ku 14015" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "peafowl" ; Times: 3
+	Query: "specificepithet:hypoleucum genus:dicaeum country:&#34;philippines&#34;" ; Times: 4
+	Query: "Rio Apurimac" ; Times: 1
+	Query: "Corvus cryptoleucus hastissue:1" ; Times: 1
+	Query: "Symposiachrus browni hastissue:1" ; Times: 1
+	Query: "5867 aves" ; Times: 1
+	Query: "Buteo harlani new mexico" ; Times: 2
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "specificepithet:cyanogastra genus:irena country:&#34;philippines&#34;" ; Times: 2
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Amblycercus" ; Times: 2
+	Query: "MAR 8559" ; Times: 1
+	Query: "locality:Laos" ; Times: 1
+	Query: "104302" ; Times: 1
+	Query: "101430" ; Times: 1
+	Query: "Rio Seco" ; Times: 1
+	Query: "campephilus principalis" ; Times: 8
+	Query: "rhynchopsitta" ; Times: 2
+	Query: "bombus" ; Times: 2
+	Query: "piranga flava" ; Times: 2
+	Query: "M-16350" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 3
+	Query: "mana" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "MSB 273731" ; Times: 2
+	Query: "Wyoming Moose" ; Times: 1
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 1
+	Query: "specificepithet:peregrinus genus:Falco county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen genus:emberizoides class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "Rio Seco peru" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "locality:Sangre de Cristo Mountains hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 1
+	Query: "ensifera ensifera aves south america" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Amblycercus country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;New Jersey&#34; ovary" ; Times: 1
+	Query: "Rabor specimens MSB" ; Times: 3
+	Query: "specificepithet:uropygialis genus:Cacicus country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:quelea" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Makira" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 1
+	Query: "nothoprocta ornata" ; Times: 1
+	Query: "Accipiter gentilis mexico" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "county:&#34;Washington&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 3
+	Query: "genus:cardinalis hastissue:1" ; Times: 1
+	Query: "275596" ; Times: 1
+	Query: "anwc year &gt; 1990 Pardalotus punctatus" ; Times: 1
+	Query: "anwc year &gt; 1990 Ptilonorhynchus violaceus" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "Merops bullockoides institutioncode:MSB" ; Times: 1
+	Query: "passeriformes spleen" ; Times: 5
+	Query: "alticola" ; Times: 1
+	Query: "aves spleen" ; Times: 11
+	Query: "vntype:specimen specificepithet:bifasciatus genus:Psarocolius" ; Times: 1
+	Query: "parus major ovary" ; Times: 1
+	Query: "275547" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte institutioncode:MSB" ; Times: 2
+	Query: "hypocnemis peruviana" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "176298" ; Times: 1
+	Query: "catalognumber:55282 collectioncode:Bird institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:bifasciatus genus:Psarocolius hastissue:1" ; Times: 1
+	Query: "Symposiachrus 2019 hastissue:1" ; Times: 2
+	Query: "173311" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "Indicator indicator" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Falco county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 2
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla basisofrecord:PreservedSpecimen hassex:1" ; Times: 2
+	Query: "44107" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "28078" ; Times: 2
+	Query: "pitta anerythra" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "specificepithet:reinwardtii" ; Times: 1
+	Query: "megaceryle alcyon" ; Times: 3
+	Query: "nothoprocta pentlandii" ; Times: 1
+	Query: "Campylorhynchus fasciatus hastissue:1" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "genus:Colaptes catalognumber:48083" ; Times: 1
+	Query: "OR.5252" ; Times: 2
+	Query: "specificepithet:angustifrons genus:Psarocolius hastissue:1" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "117361" ; Times: 1
+	Query: "grus canadensis tabida" ; Times: 1
+	Query: "27947" ; Times: 2
+	Query: "ensifera ensifera aves" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "ku aves 14015" ; Times: 1
+	Query: "genus:Psarisomus preparations:skeleton" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "boxer" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "41449" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 940 download events in this period)
+Total number of records downloaded: 1008
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 5
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Rabor specimens MSB" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+
+End of report.
